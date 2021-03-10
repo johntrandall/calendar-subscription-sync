@@ -7,6 +7,7 @@
 #  encrypted_password     :string           default(""), not null
 #  expires                :string
 #  expires_at             :string
+#  google_auth            :jsonb
 #  provider               :string
 #  refresh_token          :string
 #  remember_created_at    :datetime
@@ -39,6 +40,15 @@ class User < ApplicationRecord
       user.expires = auth.credentials.expires
       user.expires_at = auth.credentials.expires_at
       user.refresh_token = auth.credentials.refresh_token
+      user.google_auth = auth
     end
+  end
+
+  def name
+    google_auth.dig('info', 'name')
+  end
+
+  def email
+    google_auth.dig('info', 'email')
   end
 end
