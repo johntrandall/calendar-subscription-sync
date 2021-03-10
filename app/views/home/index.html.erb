@@ -2,6 +2,11 @@
   hello World
 </p>
 
-<p>
+<% if !current_user %>
   <%= button_to "Sign in with Google", user_google_oauth2_omniauth_authorize_path %>
-</p>
+<% end %>
+
+<% if current_user %>
+  <p>congrats, google sign in worked.</p>
+  <%= link_to new_calendar_sync_definitions_path, new_calendar_sync_definitions_path %>
+<% end %>
