@@ -9,5 +9,11 @@ Rails.application.routes.draw do
     get 'sign_out', :to => 'devise/sessions#destroy', :as => :destroy_user_session
   end
 
-  resources :calendar_sync_definitions
+  resources :calendar_sync_definitions do
+    member do
+      post :perform_sync
+    end
+  end
+
+
 end

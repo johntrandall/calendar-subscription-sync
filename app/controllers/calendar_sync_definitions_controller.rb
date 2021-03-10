@@ -18,4 +18,12 @@ class CalendarSyncDefinitionsController < ApplicationController
     flash[:notice] = "sync definition created!"
     redirect_to calendar_sync_definitions_path
   end
+
+  def perform_sync
+    calendar_sync_definition = current_user.calendar_sync_definitions.find(params[:id])
+    CalendarSyncJob.perform_later(calendar_sync_definition.id)
+
+    flash[:notice] = "running sync"
+    redirect_to calendar_sync_definitions_path
+  end
 end

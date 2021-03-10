@@ -2,6 +2,7 @@
 <% @calendar_sync_definitions.find_each do |csd| %>
   <li>
     <%= csd.inspect %>
+    <%= button_to perform_sync_calendar_sync_definition_path(csd), perform_sync_calendar_sync_definition_path(csd) %>
   </li>
 <% end %>
 </ul>
