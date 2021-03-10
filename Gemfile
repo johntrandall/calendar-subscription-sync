@@ -38,6 +38,7 @@ gem 'omniauth-rails_csrf_protection'
 gem 'simple_form'
 
 gem 'icalendar'
+gem 'google-api-client', require: false # only require the calendar portion, do it inline
 
 
 group :development, :test do
