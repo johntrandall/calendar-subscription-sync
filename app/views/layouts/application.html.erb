@@ -10,7 +10,12 @@
     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
-  <body>
+  <body class="<%= controller_name %> <%= action_name %>">
+  <% if Rails.env.development? %>
+    <h1><%= controller_name %>#<%= action_name %></h1>
+    <h1>current_user: <%= current_user&.id || "not signed in"%> </h1>
+  <% end %>
+
     <p class="notice"><%= notice %></p>
     <p class="alert"><%= alert %></p>
 
