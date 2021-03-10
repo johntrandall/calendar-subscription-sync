@@ -9,4 +9,16 @@ describe CalendarSyncJob do
     described_class.new.perform(calendar_sync_definition.id)
   end
 
+  xit 'copies event to google cal' do
+
+  end
+
+  xit 'updates event on google cal' do
+
+  end
+
+  xit 'deletes a disappeared event on google cal' do
+
+  end
+
 end

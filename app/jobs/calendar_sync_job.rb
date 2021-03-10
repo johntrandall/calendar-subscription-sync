@@ -19,7 +19,12 @@ class CalendarSyncJob < ApplicationJob
 
     # Now you can access the cal object in just the same way I created it
     events = cal.events
-    event = cal.events.first
+
+    # finding_by_uid
+    # event = cal.events.first
+    # event_uid = event.uid
+    # event_again = cal.find_event(uid)
+
 
     puts "start date-time: #{event.dtstart}"
     puts "start date-time timezone: #{event.dtstart.ical_params['tzid']}"

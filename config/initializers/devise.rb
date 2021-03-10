@@ -274,9 +274,8 @@ Devise.setup do |config|
   # config.omniauth :github, 'APP_ID', 'APP_SECRET', scope: 'user,public_repo'
   config.omniauth :google_oauth2,
                   Rails.application.credentials.google.fetch(:client_id),
-                  Rails.application.credentials.google.fetch(:client_secret)#,
-                  # scope: 'user,public_repo'
-
+                  Rails.application.credentials.google.fetch(:client_secret),
+                  { scope: 'email,profile,https://www.googleapis.com/auth/calendar' }
 
   # ==> Warden configuration
   # If you want to use other strategies, that are not supported by Devise, or
