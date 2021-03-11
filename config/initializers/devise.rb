@@ -275,7 +275,13 @@ Devise.setup do |config|
   config.omniauth :google_oauth2,
                   Rails.application.credentials.google.fetch(:client_id),
                   Rails.application.credentials.google.fetch(:client_secret),
-                  { scope: 'email,profile,https://www.googleapis.com/auth/calendar' }
+                  {
+                    scope: 'email,profile,https://www.googleapis.com/auth/calendar',
+                    additional_parameters: {
+                      "access_type" => "offline", # offline access
+                      "include_granted_scopes" => "true" # incremental auth
+                    }
+                  }
 
   # ==> Warden configuration
   # If you want to use other strategies, that are not supported by Devise, or
