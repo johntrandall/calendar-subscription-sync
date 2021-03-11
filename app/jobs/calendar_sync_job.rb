@@ -4,7 +4,7 @@ class CalendarSyncJob < ApplicationJob
     Rails.logger.info { "#{self.name}.queue_all" }
     CalendarSyncDefinition.all.find_each do |csd|
       # begin
-        CalendarSyncJob.new.perform(csd.id)
+      CalendarSyncJob.new.perform(csd.id)
       # rescue
       #   next
       # end
@@ -36,13 +36,7 @@ class CalendarSyncJob < ApplicationJob
     # event_again = cal.find_event(uid)
     #
     events.each do |source_event|
-      # source_event_copyable_attributes = source_event.to_h.except(:created, :etag, :id, :i_cal_uid)
-
-      # puts "start date-time: #{source_event.dtstart}"
-      # puts "start date-time timezone: #{source_event.dtstart.ical_params['tzid']}"
-      # puts "summary: #{source_event.summary}"
-
-      # talk to google
+      Rails.logger.info { "processing event #{source_event.uid}" }
       require "google/apis/calendar_v3"
       require 'google/api_client/client_secrets.rb'
       secrets = Google::APIClient::ClientSecrets.new(
@@ -59,24 +53,7 @@ class CalendarSyncJob < ApplicationJob
 
       @calendar_service.authorization = secrets.to_authorization
       @calendar_service.authorization.refresh!
-      main_calendar = @calendar_service.get_calendar(user.email)
-
-      # @calendar_service.insert_event('primary',
-      #                                event_object = nil,
-      #                                conference_data_version: nil,
-      #                                max_attendees: nil,
-      #                                send_notifications: nil,
-      #                                send_updates: nil,
-      #                                supports_attachments: nil,
-      #                                fields: nil,
-      #                                quota_user: nil,
-      #                                user_ip: nil,
-      #                                options: nil) {}
-
       event_obj = Google::Apis::CalendarV3::Event.new(hash_from_ics_source(source_event))
-      # puts event_obj.summary
-
-      Rails.logger.info { 'talking to google' }
 
       if mapping = calendar_sync_definition.calendar_id_maps.where(ics_uid: source_event.uid.to_s).first
         #TODO only patch if updated on ical file
@@ -88,13 +65,8 @@ class CalendarSyncJob < ApplicationJob
         calendar_sync_definition.calendar_id_maps.create!(ics_uid: source_event.uid, google_cal_id: response.id)
       end
       #TODO destroy
-
-      # main
-      # @source_calendar = @calendar_service.get_calendar(@google_calendar_syncronization.source_calendar_id, options: {authorization: @auth_client})
-      # raise 'just do one!'
-      Rails.logger.info { "#{self.class.name}.perform on #{calendar_sync_definition_id} ended" }
     end
-
+    Rails.logger.info { "#{self.class.name}.perform on #{calendar_sync_definition_id} ended" }
   end
 
   def hash_from_ics_source(source_event)
