@@ -52,8 +52,10 @@ class CalendarSyncJob < ApplicationJob
       @calendar_service = Google::Apis::CalendarV3::CalendarService.new
 
       @calendar_service.authorization = secrets.to_authorization
-      # TODO(JR) need to get scope and token for refresh to work
-      # @calendar_service.authorization.refresh!
+
+      # TODO(JR) need to get scope and token for refresh to work on heroku?
+      # https://github.com/googleapis/google-api-ruby-client/issues/862
+      @calendar_service.authorization.refresh!
       event_obj = Google::Apis::CalendarV3::Event.new(hash_from_ics_source(source_event))
 
       if mapping = calendar_sync_definition.calendar_id_maps.where(ics_uid: source_event.uid.to_s).first
