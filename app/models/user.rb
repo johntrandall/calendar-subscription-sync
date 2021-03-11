@@ -25,6 +25,7 @@
 #
 class User < ApplicationRecord
   has_many :calendar_sync_definitions
+  has_many :calendar_id_maps
 
   # Include default devise modules. Others available are:
   # :confirmable, :lockable, :timeoutable, :trackable and :omniauthable

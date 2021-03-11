@@ -10,10 +10,19 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_03_10_220747) do
+ActiveRecord::Schema.define(version: 2021_03_10_235358) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "calendar_id_maps", force: :cascade do |t|
+    t.bigint "calendar_sync_definition_id"
+    t.string "google_cal_id"
+    t.string "ics_uid"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["calendar_sync_definition_id"], name: "index_calendar_id_maps_on_calendar_sync_definition_id"
+  end
 
   create_table "calendar_sync_definitions", force: :cascade do |t|
     t.string "subscribed_calendar_url"

@@ -65,12 +65,12 @@ class CalendarSyncJob < ApplicationJob
       event_obj = Google::Apis::CalendarV3::Event.new(hash_from_ics_source(source_event))
       # puts event_obj.summary
 
-      # begin
-      #   @calendar_service.get_event('primary', source_event.uid)
-      #   response = @calendar_service.patch_event('primary', source_event.uid, event_obj)
-      # rescue Google::Apis::ClientError
+      if mapping = calendar_sync_definition.calendar_id_maps.where(ics_uid: source_event.uid.to_s).first
+        response = @calendar_service.patch_event('primary', mapping.google_calendar_id, event_obj)
+      else
         response = @calendar_service.insert_event('primary', event_obj)
-      # end
+        calendar_sync_definition.calendar_id_maps.create!(ics_uid: source_event.uid, google_cal_id: response.id)
+      end
 
       puts response
 

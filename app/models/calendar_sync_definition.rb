@@ -1,5 +1,6 @@
 class CalendarSyncDefinition < ApplicationRecord
   belongs_to :user
+  has_many :calendar_id_maps
 end
 
 # == Schema Information
