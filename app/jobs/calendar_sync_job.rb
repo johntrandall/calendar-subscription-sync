@@ -1,7 +1,18 @@
 class CalendarSyncJob < ApplicationJob
 
+  def self.queue_all
+    Rails.logger.info { "#{self.name}.queue_all" }
+    CalendarSyncDefinition.all.find_each do |csd|
+      # begin
+        CalendarSyncJob.new.perform(csd.id)
+      # rescue
+      #   next
+      # end
+    end
+  end
+
   def perform(calendar_sync_definition_id)
-    Rails.logger { "#{self.class.name}.perform on #{calendar_sync_definition_id}) started" }
+    Rails.logger.info { "#{self.class.name}.perform on #{calendar_sync_definition_id} started" }
     calendar_sync_definition = CalendarSyncDefinition.find(calendar_sync_definition_id)
     source_url = calendar_sync_definition.subscribed_calendar_url.gsub('webcal://', 'http://')
     user = calendar_sync_definition.user
@@ -65,18 +76,23 @@ class CalendarSyncJob < ApplicationJob
       event_obj = Google::Apis::CalendarV3::Event.new(hash_from_ics_source(source_event))
       # puts event_obj.summary
 
+      Rails.logger.info { 'talking to google' }
+
       if mapping = calendar_sync_definition.calendar_id_maps.where(ics_uid: source_event.uid.to_s).first
-        response = @calendar_service.patch_event('primary', mapping.google_calendar_id, event_obj)
+        #TODO only patch if updated on ical file
+        Rails.logger.info { 'patching' }
+        response = @calendar_service.patch_event('primary', mapping.google_cal_id, event_obj)
       else
+        Rails.logger.info { 'creating new' }
         response = @calendar_service.insert_event('primary', event_obj)
         calendar_sync_definition.calendar_id_maps.create!(ics_uid: source_event.uid, google_cal_id: response.id)
       end
-
-      puts response
+      #TODO destroy
 
       # main
       # @source_calendar = @calendar_service.get_calendar(@google_calendar_syncronization.source_calendar_id, options: {authorization: @auth_client})
       # raise 'just do one!'
+      Rails.logger.info { "#{self.class.name}.perform on #{calendar_sync_definition_id} ended" }
     end
 
   end
