@@ -47,7 +47,7 @@ class CalendarSyncJob < ApplicationJob
                               .first_or_create!
                               .update!(google_cal_updated_at: Time.current)
 
-      #TODO destroy if needed. Might not need it because the status "cancelled" might do it for us.
+      #TODO(JR) UNKNOWN destroy if needed. Might not need it because the status "cancelled" might do it for us.
     end
     Rails.logger.info { "#{self.class.name}.perform on #{calendar_sync_definition_id} end" }
   end
@@ -84,9 +84,7 @@ class CalendarSyncJob < ApplicationJob
 
     @calendar_service.authorization = secrets.to_authorization
 
-    # TODO(JR) need to get scope and token for refresh to work on heroku?
-    # TODO(JR) do we need to refresh here each time?
-    # https://github.com/googleapis/google-api-ruby-client/issues/862
+    # TODO(JR) UNKNOWN do we need to refresh here each time?
     @calendar_service.authorization.refresh!
     @calendar_service
   end

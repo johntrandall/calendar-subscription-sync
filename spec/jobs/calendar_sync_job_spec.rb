@@ -85,7 +85,7 @@ describe CalendarSyncJob do
         calendar_sync_definition = CalendarSyncDefinition.create!(user: user, subscribed_calendar_url: ics_url)
         described_class.new.perform(calendar_sync_definition.id, limit: 3)
         described_class.new.perform(calendar_sync_definition.id, limit: 3)
-        #TODO should see the logger update rather than new
+        #TODO(JR) Success is to see the logger 'update' rather than 'new'
       end
 
       xit 'deletes a disappeared event on google cal' do
@@ -108,7 +108,7 @@ describe CalendarSyncJob do
 
         puts 'SECOND RUN'
         described_class.new.perform(calendar_sync_definition.id, limit: 3)
-        #TODO manual check - we should see the logger 'update' rather than 'create' on the remote the second time around
+        #TODO(JR) Success is to see the logger 'update' rather than 'new'
       end
 
       xit 'deletes a disappeared event on google cal' do

@@ -281,6 +281,7 @@ Devise.setup do |config|
                       "access_type" => "offline", # offline access
                       "include_granted_scopes" => "true" # incremental auth
                     },
+                    # Need to get scope and token for refresh to work on heroku for some reason. See https://github.com/googleapis/google-api-ruby-client/issues/862
                     prompt: 'select_account consent'
                   }
 
