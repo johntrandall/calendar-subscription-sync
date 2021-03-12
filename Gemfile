@@ -40,6 +40,7 @@ gem 'simple_form'
 gem 'icalendar'
 gem 'google-api-client', require: false # only require the calendar portion, do it inline
 
+gem 'raygun4ruby'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
