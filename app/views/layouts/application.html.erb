@@ -11,7 +11,7 @@
   </head>
 
   <body class="<%= controller_name %> <%= action_name %>">
-  <% if Rails.env.development? %>
+  <%# if Rails.env.development? %>
     <h1><%= controller_name %>#<%= action_name %></h1>
     <h1>
       <% if current_user %>
@@ -20,7 +20,7 @@
         not signed in
       <% end %>
     </h1>
-  <% end %>
+  <%# end %>
 
     <p class="notice"><%= notice %></p>
     <p class="alert"><%= alert %></p>
