@@ -61,6 +61,8 @@ group :development do
   gem 'spring'
 
   gem 'annotate'
+
+  gem 'pgsync'
 end
 
 group :test do
