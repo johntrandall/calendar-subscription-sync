@@ -85,7 +85,7 @@ class CalendarSyncJob < ApplicationJob
   private
 
   def event_status(source_event)
-    source_event.status.downcase if source_event.status.downcase.in?(["confirmed", "tentative", "cancelled"])
+    source_event.status.downcase if source_event.status&.downcase&.in?(["confirmed", "tentative", "cancelled"])
   end
 end
 
