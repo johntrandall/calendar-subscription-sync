@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_03_10_235358) do
+ActiveRecord::Schema.define(version: 2021_03_12_200920) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -21,6 +21,7 @@ ActiveRecord::Schema.define(version: 2021_03_10_235358) do
     t.string "ics_uid"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.datetime "google_cal_updated_at"
     t.index ["calendar_sync_definition_id"], name: "index_calendar_id_maps_on_calendar_sync_definition_id"
   end
 

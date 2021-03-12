@@ -3,6 +3,7 @@
 # Table name: calendar_id_maps
 #
 #  id                          :bigint           not null, primary key
+#  google_cal_updated_at       :datetime
 #  ics_uid                     :string
 #  created_at                  :datetime         not null
 #  updated_at                  :datetime         not null
