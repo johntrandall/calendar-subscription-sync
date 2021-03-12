@@ -36,14 +36,16 @@ class CalendarSyncJob < ApplicationJob
       refresh_calendar_service(user)
 
       g_event = Google::Apis::CalendarV3::Event.new(google_cal_data_from_ics_data(ics_source_event))
-      if mapping = calendar_sync_definition.calendar_id_maps.find_by(ics_uid: ics_source_event.uid.to_s)
-        Rails.logger.info { 'updating on Google' }
-        response = @calendar_service.update_event('primary', mapping.google_cal_id, g_event)
-      else
-        Rails.logger.info { 'creating new on Google' }
-        response = @calendar_service.insert_event('primary', g_event)
-      end
-      calendar_sync_definition.calendar_id_maps.first_or_create(ics_uid: ics_source_event.uid, google_cal_id: response.id).update!(google_cal_updated_at: Time.current)
+      response = if mapping = calendar_sync_definition.calendar_id_maps.find_by(ics_uid: ics_source_event.uid.to_s)
+                   Rails.logger.info { 'updating on Google' }
+                   @calendar_service.update_event('primary', mapping.google_cal_id, g_event)
+                 else
+                   Rails.logger.info { 'creating new on Google' }
+                   @calendar_service.insert_event('primary', g_event)
+                 end
+      calendar_sync_definition.calendar_id_maps.where(ics_uid: ics_source_event.uid.to_s, google_cal_id: response.id)
+                              .first_or_create!
+                              .update!(google_cal_updated_at: Time.current)
 
       #TODO destroy if needed. Might not need it because the status "cancelled" might do it for us.
     end

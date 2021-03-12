@@ -76,7 +76,7 @@ describe CalendarSyncJob do
 
     context 'with random holidays calendar' do
       let(:ics_url) { "webcal://www.webcal.fi/cal.php?id=41&format=ics&ph=1&ecl=1&pa=1&es=1&du=mi&wrn=1&wp=2&wf=26&color=%23666666&cntr=us&lang=en&rid=wc" }
-      it 'copies event to google cal' do
+      it 'creates event on google cal' do
         calendar_sync_definition = CalendarSyncDefinition.create!(user: user, subscribed_calendar_url: ics_url)
         described_class.new.perform(calendar_sync_definition.id, limit: 3)
       end
@@ -96,14 +96,17 @@ describe CalendarSyncJob do
 
     context 'with TeamSnap calendar' do
       let(:ics_url) { "http://ical-cdn.teamsnap.com/team_schedule/241e42f9-da74-4e0f-b228-cfdb43f89b8e.ics" }
-      it 'copies event to google cal' do
+      it 'creates event on google cal' do
         calendar_sync_definition = CalendarSyncDefinition.create!(user: user, subscribed_calendar_url: ics_url)
-        described_class.new.perform(calendar_sync_definition.id)
+        described_class.new.perform(calendar_sync_definition.id, limit: 3)
       end
 
       it 'updates event on google cal' do
         calendar_sync_definition = CalendarSyncDefinition.create!(user: user, subscribed_calendar_url: ics_url)
+        puts 'FIRST RUN'
         described_class.new.perform(calendar_sync_definition.id, limit: 3)
+
+        puts 'SECOND RUN'
         described_class.new.perform(calendar_sync_definition.id, limit: 3)
         #TODO manual check - we should see the logger 'update' rather than 'create' on the remote the second time around
       end
