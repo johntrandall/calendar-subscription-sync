@@ -280,7 +280,8 @@ Devise.setup do |config|
                     additional_parameters: {
                       "access_type" => "offline", # offline access
                       "include_granted_scopes" => "true" # incremental auth
-                    }
+                    },
+                    prompt: 'select_account consent'
                   }
 
   # ==> Warden configuration
