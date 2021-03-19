@@ -1,7 +1,4 @@
 <p>
   try these - <%= link_to "http://icalshare.com/", "http://icalshare.com/" %>
 </p>
-<%= simple_form_for(@calendar_sync_definition) do |f| %>
-  <%= f.input :subscribed_calendar_url %>
-  <%= f.submit %>
-<% end %>
+<%= render 'form' %>

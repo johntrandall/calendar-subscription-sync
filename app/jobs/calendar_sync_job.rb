@@ -20,7 +20,7 @@ class CalendarSyncJob < ApplicationJob
     ics_string = fetch_ics_string(calendar_sync_definition)
     ics_events = parse_ics_string_to_events(ics_string)
 
-    google_calendar_gateway = GoogleCalendarGateway.new(user)
+    google_calendar_gateway = GoogleCalendarPushAndSyncEventService.new(user)
 
     sync_ics_feed_to_google(calendar_sync_definition, google_calendar_gateway, ics_events, limit_for_spec)
 

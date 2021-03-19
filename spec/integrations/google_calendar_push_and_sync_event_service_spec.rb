@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-describe GoogleCalendarGateway do
+describe GoogleCalendarPushAndSyncEventService do
   describe "integration specs", vcr: { record: :once,
                                        match_requests_on: [:method, :uri, :body] } do
 
@@ -113,10 +113,34 @@ END:VEVENT
     }
 
     describe "#sync_ics_event_to_google" do
-      it "persists a mapping" do
+      it "when mapping does not exist, it persists a mapping" do
         calendar_sync_definition = CalendarSyncDefinition.create!(user: user)
         expect { described_class.new(user).sync_ics_event_to_google(ics_events.first, calendar_sync_definition) }
           .to change { CalendarIdMap.count }.by(1)
+      end
+      it "when mapping does exist, and data hasn't changed, it does nothing" do
+        calendar_sync_definition = CalendarSyncDefinition.create!(user: user)
+        expect { described_class.new(user).sync_ics_event_to_google(ics_events.first, calendar_sync_definition) }
+          .to change { CalendarIdMap.count }.by(1)
+        pre_existing_mapping = CalendarIdMap.last
+
+        expect { described_class.new(user).sync_ics_event_to_google(ics_events.first, calendar_sync_definition); pre_existing_mapping.reload }
+          .to change { CalendarIdMap.count }.by(0)
+                .and not_change { pre_existing_mapping.attributes }
+
+      end
+      it "when mapping does exist, it updates the mapping" do
+        calendar_sync_definition = CalendarSyncDefinition.create!(user: user)
+        expect { described_class.new(user).sync_ics_event_to_google(ics_events.first, calendar_sync_definition) }
+          .to change { CalendarIdMap.count }.by(1)
+        pre_existing_mapping = CalendarIdMap.last
+
+        ics_events.first.description = "i have changed!"
+        ics_events.first.last_modified = ics_events.first.last_modified + 1.day
+
+        expect { described_class.new(user).sync_ics_event_to_google(ics_events.first, calendar_sync_definition); pre_existing_mapping.reload }
+          .to change { CalendarIdMap.count }.by(0)
+                                            .and change { pre_existing_mapping.updated_at }
       end
     end
 

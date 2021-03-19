@@ -1,0 +1,6 @@
+<%= simple_form_for(@calendar_sync_definition) do |f| %>
+  id: <%= @calendar_sync_definition.id %>
+  <%= f.input :subscribed_calendar_url %>
+  <%= f.input :description_prepend_string, hint: "This will be added at the top of the description on each event." %>
+  <%= f.submit %>
+<% end %>

@@ -1,8 +1,10 @@
 <ul>
-<% @calendar_sync_definitions.find_each do |csd| %>
+<% @calendar_sync_definitions.find_each do |calendar_sync_definition| %>
   <li>
-    <%= csd.inspect %>
-    <%= button_to perform_sync_calendar_sync_definition_path(csd), perform_sync_calendar_sync_definition_path(csd) %>
+    <%= calendar_sync_definition.subscribed_calendar_url %>
+    <%= calendar_sync_definition.description_prepend_string %>
+    <%= button_to perform_sync_calendar_sync_definition_path(calendar_sync_definition), perform_sync_calendar_sync_definition_path(calendar_sync_definition) %>
+    <%= link_to 'edit', edit_calendar_sync_definition_path(calendar_sync_definition) %>
   </li>
 <% end %>
 </ul>

@@ -7,11 +7,12 @@ end
 #
 # Table name: calendar_sync_definitions
 #
-#  id                      :bigint           not null, primary key
-#  subscribed_calendar_url :string
-#  created_at              :datetime         not null
-#  updated_at              :datetime         not null
-#  user_id                 :bigint
+#  id                         :bigint           not null, primary key
+#  description_prepend_string :string
+#  subscribed_calendar_url    :string
+#  created_at                 :datetime         not null
+#  updated_at                 :datetime         not null
+#  user_id                    :bigint
 #
 # Indexes
 #

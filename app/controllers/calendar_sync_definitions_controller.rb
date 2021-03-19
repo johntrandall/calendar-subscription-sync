@@ -11,6 +11,10 @@ class CalendarSyncDefinitionsController < ApplicationController
     @calendar_sync_definition = CalendarSyncDefinition.new(user: current_user)
   end
 
+  def edit
+    @calendar_sync_definition = current_user.calendar_sync_definitions.find(params[:id])
+  end
+
   def create
     url = params[:calendar_sync_definition][:subscribed_calendar_url]
     current_user.calendar_sync_definitions.create!(subscribed_calendar_url: url)
