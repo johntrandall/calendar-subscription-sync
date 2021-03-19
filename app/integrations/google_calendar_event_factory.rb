@@ -1,12 +1,12 @@
 class GoogleCalendarEventFactory
   attr_accessor :ics_source_event, :calendar_sync_definition
 
-  def initialize(ics_source_event, calendar_sync_definition)
-    @ics_source_event = ics_source_event
+  def initialize(calendar_sync_definition)
     @calendar_sync_definition = calendar_sync_definition
   end
 
-  def create_unpersisted_from_ics
+  def create_unpersisted_from_ics(ics_source_event)
+    @ics_source_event = ics_source_event
     event = Google::Apis::CalendarV3::Event.new({
                                                   summary: ics_source_event.summary,
                                                   description: description,
