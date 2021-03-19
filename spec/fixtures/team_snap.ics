@@ -1,0 +1,1265 @@
+
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20200920
+DTSTART;VALUE=DATE:20200919
+DTSTAMP;VALUE=DATE-TIME:20200918T040521Z
+LAST-MODIFIED;VALUE=DATE-TIME:20200918T040521Z
+UID:7004706-229270554
+DESCRIPTION:1\,Moore vs Keddell NOON at Meadow\n\nM= Baker\, Minister\, M
+ oore\, Pulawski\, Srikanth\, Tycher\, Van Dzura (Home team in White)\nK=
+  Cranston\, Johnson\, Keddell\, McDonnell\, Payne\, Shine (Away team in 
+ Black)\n\n2. Crossen vs Ajax - 1:30 at Meadow\nAbeytunge\, Crossen\, Deb
+ orou\, Meskill\, Soni\, Task (Home in White)  (Arrival Time: 11:30 PM (E
+ astern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys League Games
+LOCATION:Brookdale Meadow B
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20200921T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20200921T163000
+DTSTAMP;VALUE=DATE-TIME:20201011T194039Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201011T194039Z
+UID:7004706-229270332
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time:  4:30 PM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20200923T161500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20200923T161500
+DTSTAMP;VALUE=DATE-TIME:20200922T221538Z
+LAST-MODIFIED;VALUE=DATE-TIME:20200922T221538Z
+UID:7004706-229270391
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time:  4:15 PM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20200927
+DTSTART;VALUE=DATE:20200926
+DTSTAMP;VALUE=DATE-TIME:20200926T020029Z
+LAST-MODIFIED;VALUE=DATE-TIME:20200926T020029Z
+UID:7004706-229270555
+DESCRIPTION:Location: See notes below\n Hi -teams below - please confirm 
+ your availability if you have not already\;\n\n1. Crossen team Away at N
+ orthern Valley 2pm (Directions  below)\nCrossen\, Johnson\, McDonnell\, 
+ Shine\, Van Dzura\, Deborou\n2. Moore team Away at Ajax 3:15pm (Directio
+ ns below)\;\nAbeytunge\, Baker\, Meskill\, Moore\, Soni\, Srikanth\, Ked
+ dell\n3. Keddell team GAME OFF!!- Home at 4:30 vs Americans\n\nMinister 
+ TBD\n\n\nSunday game will be set up for a different Crossen team on sepa
+ rate schedule.\n\nNorthern Valley - Harrington Park\, Highland Field - U
+ pper Small \nTappan Road\,  Harrington Park\, NJ 07640\nTake Central Ave
+  past the High School heading toward Norwood. At the light\, make a righ
+ t onto Tappan Road. Once you enter Harrington Park\, Highland Field is t
+ he large group of fields on your left side. The Upper Small sided field 
+ is to the left of the basketball courts.\n\n\nAjax - Midland Park High S
+ chool\, 250 Prospect Street\n Midland Park\, NJ 07432\nTake Route 208 to
+  Goffle Road/Midland Park/Ridgewood exit. Stay on Goffle Road north unti
+ l end (2nd light) and make a left onto Godwin Avenue. At the 1st light\,
+  make a right onto Prospect Street. In slightly less than one mile\, ent
+ rance to school is on right. Park in spots in front of school or field\,
+  which located at the south end of the property adjacent to the school. 
+  (Arrival Time: 11:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys League Games
+LOCATION:Varied - See notes
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20200927T140000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20200927T130000
+DTSTAMP;VALUE=DATE-TIME:20200926T180706Z
+LAST-MODIFIED;VALUE=DATE-TIME:20200926T180706Z
+UID:7004706-231865905
+DESCRIPTION:Hi - this is a  make-up game for a Crossen team\; Other make 
+ up games are still TBD. Please confirm your availability for this 2nd ga
+ me of the weekend!\n\nTeam - \nCranston\nCrossen\nJohnson\nPayne\nPulaws
+ ki\nTycher -  \n Uniform: White (Arrival Time: 12:30 PM (Eastern Time (U
+ S & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue Just Crossen team - see notes for
+  roster vs Crossen team vs SC Vistula
+LOCATION:Brookdale Meadow B
+SEQUENCE:5
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20200928T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20200928T163000
+DTSTAMP;VALUE=DATE-TIME:20201011T194039Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201011T194039Z
+UID:7004706-229270333
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time:  4:30 PM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20200930T161500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20200930T161500
+DTSTAMP;VALUE=DATE-TIME:20200929T220858Z
+LAST-MODIFIED;VALUE=DATE-TIME:20200929T220858Z
+UID:7004706-229270392
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time:  4:15 PM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20201004
+DTSTART;VALUE=DATE:20201003
+DTSTAMP;VALUE=DATE-TIME:20201003T103106Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201003T103106Z
+UID:7004706-229270556
+DESCRIPTION:Location: Scrimmage at 1pm\, Moore game at 2:30\n Weekend of 
+ 10/3+4:\nSaturday:\n1. Optional Scrimmage Home at 1pm for Crossen & Kedd
+ ell teams\;\nAbeytunge\, Baker\, Cranston\, Crossen\, Keddell\, McDonnel
+ l\, Meskill\, Minister\, Shine\, Soni\, Srikanth\, Task\, Van Dzura.\n\n
+ 2.. Moore Home game vs Paramus at 2:30\nDebourou\, Johnson\, Moore\, Pay
+ ne\, Pulawski\, Shirkhedar\, Tycher\n\nSunday:\n- Keddell team Away at V
+ istula 11am - will add this game to teamsnap\n Abeytunge\, Keddell\, McD
+ onnell\, Meskill\, Shine\, Soni\, Van Dzura  (Arrival Time: 11:30 PM (Ea
+ stern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys League Games
+LOCATION:Brookdale Meadow B
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201004T110000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201004T110000
+DTSTAMP;VALUE=DATE-TIME:20201003T180413Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201003T180413Z
+UID:7004706-232183984
+DESCRIPTION:Location: 60 Spring Street\, Garfield\, NJ 07026. - Belmont t
+ urf field\n Sunday game for Keddell team\;\nAbeytunge\nKeddell\nMcDonnel
+ l\nMeskill\nShine\nSoni\, \nVan Dzura -  \n Uniform: Black (Arrival Time
+ : 10:30 AM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue Keddell team at VISTULA
+LOCATION:60 Spring Street\, Garfield\, NJ 07026.
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201005T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201005T163000
+DTSTAMP;VALUE=DATE-TIME:20201003T101212Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201003T101212Z
+UID:7004706-229270334
+DESCRIPTION:[CANCELED] Location: Brookdale Stadium 
+SUMMARY:[CANCELED] 2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201005T173011
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201005T163011
+DTSTAMP;VALUE=DATE-TIME:20201004T220137Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201004T220137Z
+UID:7004706-232418051
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time:  4:30 PM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys Practice
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:7
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201007T161500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201007T161500
+DTSTAMP;VALUE=DATE-TIME:20201007T160047Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201007T160047Z
+UID:7004706-229270393
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time:  4:15 PM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201010T150000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201010T140000
+DTSTAMP;VALUE=DATE-TIME:20201008T184450Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201008T184450Z
+UID:7004706-229270557
+DESCRIPTION:Hi - For this weekend (10/10) we have no league games  and no
+  trainers as many of the club's older age teams are playing a tournament
+ .\n\nWe will have scrimmages among our own players at 2pm at the meadow\
+ , with parent coaching (volunteers welcome!). \n\nPlease indicate your a
+ vailability and we will plan accordingly.\nthx Dave  (Arrival Time:  1:3
+ 0 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys Scrimmages
+LOCATION:Brookdale Meadow B
+SEQUENCE:6
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201012T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201012T163000
+DTSTAMP;VALUE=DATE-TIME:20201012T180549Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201012T180549Z
+UID:7004706-229270335
+DESCRIPTION:[CANCELED] Location: Brookdale Stadium 
+SUMMARY:[CANCELED] 2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201014T161500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201014T161500
+DTSTAMP;VALUE=DATE-TIME:20201014T180502Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201014T180502Z
+UID:7004706-229270394
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time:  4:15 PM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20201018
+DTSTART;VALUE=DATE:20201017
+DTSTAMP;VALUE=DATE-TIME:20201016T040417Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201016T040417Z
+UID:7004706-229270558
+DESCRIPTION:Location: 3x away games. see below\n All 3 teams play on Satu
+ rday and the Moore & Keddell teams have games on Sunday too. See below f
+ or the rosters and locations. \n\nSaturday Oct 17th\n1. Keddell team (Aw
+ ay at Verona at 9am 10 mins away)\nForest Avenue Elementary School\n 118
+  Forest Ave.\n Verona\, NJ 07044\n\nJohnson\, Keddell\, McDonnell\, Mesk
+ ill\, Shine\, Task\, Tycher\n\n2. Moore team (Away at 10am at NorthValle
+ y 30 mins away)\nHarrington Park\, Highland Field\, Tappan Road\n Harrin
+ gton Park\, NJ 07640.\nBaker\, Cranston\, Minister\, Moore\, Pulawski\, 
+ Srikanth\, Van Dzura\n\n3. Crossen team (Away at Torpedoes - Noon in Wyc
+ koff\, 30 mins away):\nLincoln School\nMason Avenue\n Wyckoff\, NJ 07481
+ \nAbeytunge\, Crossen\, Debourou\, Giermek\, Payne\, Soni\, Shirkhedkar\
+ n\nSunday Oct 18th\n\n1. Keddell team (Away at Vikings\,  Harrington Par
+ k 1pm\, 30 mins away)\nNVR HS-Demarest Upper Field\n150 Knickerbocker Rd
+ \n Demarest\, NJ 07627\nBaker\, Cranston\, Giermek\, Keddell\, Srikanth\
+ , Shirkhedkar\, Van Dzura\n\n2. Moore team (Away at Americans 2pm in  Up
+ per Saddle River 25 mins away)\n Lions Park South\, 234 Lake Street\n Up
+ per Saddle River\, NJ 07458\n\nAbeytunge\, McDonnell\, Meskill\, Moore\,
+  Shine\, Soni\, Task.  (Arrival Time: 11:30 PM (Eastern Time (US & Canad
+ a))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys League Games
+LOCATION:TBD\, will vary. Home games at Meadow
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20201019
+DTSTART;VALUE=DATE:20201018
+DTSTAMP;VALUE=DATE-TIME:20201018T110652Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201018T110652Z
+UID:7004706-232827493
+DESCRIPTION:Location: See Notes\n Sunday Oct 18th\n\n1. Keddell team (Awa
+ y at Vikings\, Harrington Park 1pm\, 30 mins away)\nNVR HS-Demarest Uppe
+ r Field\n150 Knickerbocker Rd\nDemarest\, NJ 07627\nBaker\, Cranston\, G
+ iermek\, Keddell\, Srikanth\, Shirkhedkar\, Van Dzura\n\n2. Moore team (
+ Away at Americans 4pm in Upper Saddle River 25 mins away)\nLions Park So
+ uth\, 234 Lake Street\nUpper Saddle River\, NJ 07458\n\nAbeytunge\, McDo
+ nnell\, Meskill\, Moore\, Shine\, Soni\, Task. -  \n Uniform: White (Arr
+ ival Time: 11:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue at Keddell vs Vikings\, Moore vs 
+ Americans
+LOCATION:Varied - See notes
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201019T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201019T163000
+DTSTAMP;VALUE=DATE-TIME:20201019T000114Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201019T000114Z
+UID:7004706-229270336
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time:  4:30 PM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:5
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201021T161500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201021T161500
+DTSTAMP;VALUE=DATE-TIME:20201020T220755Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201020T220755Z
+UID:7004706-229270395
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time:  4:15 PM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20201025
+DTSTART;VALUE=DATE:20201024
+DTSTAMP;VALUE=DATE-TIME:20201023T140530Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201023T140530Z
+UID:7004706-229270559
+DESCRIPTION:Location: C team Home\, K Team away\n Hi - 2 games this Satur
+ day  (10/24). No game for Moore team (Baker\, Canston\, Deborou\, Moore\
+ , Payne\, Shirkhedkar\, Tycher)\n\n1. Crossen team Home at 2:30 (arrive 
+ 2pm) vs Ramapo\nTeam: Crossen\, Johnson\, McDonnell\, Pulawski\, Shine\,
+  Task\, Van Dzura\n\n2. Keddell team Away at 3:15 (arrive 2:45) at Ajax\
+ nTeam Abeytunge\, Giermek\, Keddell\, Meskill\, Minister\, Soni\, Srikan
+ th\n250 Prosepct St\, Midland Park\, NJ 07432.\nDirections: Take Route 2
+ 08 to Goffle Road/Midland Park/Ridgewood exit. Stay on Goffle Road north
+  until end (2nd light) and make a left onto Godwin Avenue. At the 1st li
+ ght\, make a right onto Prospect Street. In slightly less than one mile\
+ , entrance to school is on right. Park in spots in front of school or fi
+ eld\, which located at the south end of the property adjacent to the sch
+ ool.\nThx  (Arrival Time: 11:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys League Games
+LOCATION:TBD\, will vary. Home games at Meadow
+SEQUENCE:6
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201026T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201026T163000
+DTSTAMP;VALUE=DATE-TIME:20201026T000109Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201026T000109Z
+UID:7004706-229270337
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time:  4:30 PM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201028T161500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201028T161500
+DTSTAMP;VALUE=DATE-TIME:20201028T000423Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201028T000423Z
+UID:7004706-229270396
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time:  4:15 PM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20201101
+DTSTART;VALUE=DATE:20201031
+DTSTAMP;VALUE=DATE-TIME:20201030T060259Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201030T060259Z
+UID:7004706-229270560
+DESCRIPTION:Location: See below\n Hi - 4 games this weekend so some playe
+ rs have games Sat & Sun. Please confirm availability on teamsanp\;\n\nSa
+ turday:\n1. 11am Keddell Home vs Paramus\;\nCranston\, Johnson\, Keddell
+ \, Shine\, Task\, Tycher\, Van Dzura\n\n2. 12:30 Moore Home vs Ramapo\nA
+ beytunge\, Deborou\, Meskill\, Moore\, Payne\, Soni\, Shirkhedkar\n\n3. 
+ 2:30 Crossen Away vs Vikings in Demarest (See below)\;\nBaker\, Crossen\
+ , Giermek\, McDonnell\, Minister\, Pulawski\, Srikanth\n\nDirections: to
+  150 Knickerbocker Rd\, Demarest\, NJ 07627.\n\nField is located in fron
+ t of the school on Knickerbocker Rd.. From Garden State Parkway: Exit 16
+ 5 on parkway. Follow signs to Oradell. Take Oradell Avenue all the way t
+ o the end and turn left. Bear around road to Sunset Avenue. Take Sunset 
+ Avenue to the end. Turn left onto Park Street. Go to second stop sign an
+ d turn right over the RR tracks. Go through two traffic lights (one at a
+  grammar school and the other at the top of a steep hill)\, Go over the 
+ hill and down to the first stop sign. Turn left onto Knickerbocker Rd. S
+ chool is on right approximately one block down. . \n\nSunday Nov 1st:\n1
+ . 12:30 Keddell Home vs Americans\nDeborou\, Giermek\, Keddell\, Ministe
+ r\, Payne\, Pulawski\, Shirkhedkar\n\nthx Dave  (Arrival Time: 11:30 PM 
+ (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys League Games
+LOCATION:TBD\, will vary. Home games at Meadow
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201101T133000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201101T123000
+DTSTAMP;VALUE=DATE-TIME:20201031T180347Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201031T180347Z
+UID:7004706-233588996
+DESCRIPTION:Sunday game for Keddell team only\n\n1. 12:30 Keddell Home vs
+  Americans\nDeborou\, Giermek\, Keddell\, Minister\, Payne\, Pulawski\, 
+ Shirkhedkar -  \n Uniform: White (Arrival Time: 12:00 PM (Eastern Time (
+ US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue vs K team vs Americans
+LOCATION:Brookdale Meadow B
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201102T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201102T163000
+DTSTAMP;VALUE=DATE-TIME:20201101T220136Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201101T220136Z
+UID:7004706-229270338
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time:  4:30 PM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201104T161500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201104T161500
+DTSTAMP;VALUE=DATE-TIME:20201103T220557Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201103T220557Z
+UID:7004706-229270397
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time:  4:15 PM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20201108
+DTSTART;VALUE=DATE:20201107
+DTSTAMP;VALUE=DATE-TIME:20201106T060318Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201106T060318Z
+UID:7004706-229270561
+DESCRIPTION:Location: All home this week!\n Hi - After a busy last weeken
+ d (good job K team on Sunday for surviving the weather!)\, we have a sim
+ pler schedule Saturday. All home games:\n\n1. Keddell team H vs Spartans
+  at 9am\;\nAbeytunge\, Debourou\, Keddell\, McDonnell\, Payne\, Pulawski
+  & Shirkhedkar\n\n2. Crossen team Home vs Verona at 10:30am:\nCrossen\, 
+ Johnson\, Meskill\, Minister\, Shine\, Srikanth & Tycher\n\n3. Moore tea
+ m Home vs Vikings at Noon:\nBaker\, Canston\, Giermek\, Moore\, Soni\, T
+ ask & Van Dzura\n\nPlease confirm your availability on Teamsnap and reme
+ mber to arrive 30 mins ahead of kick-off. Thanks\nDave  (Arrival Time: 1
+ 1:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys League Games
+LOCATION:TBD\, will vary. Home games at Meadow
+SEQUENCE:4
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201108T113000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201108T103000
+DTSTAMP;VALUE=DATE-TIME:20201107T160548Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201107T160548Z
+UID:7004706-234081583
+DESCRIPTION:Location: Verona-Forest Ave Elementary School\n Hi a reschedu
+ led game for Keddell team (from October) for this SUNDAY - a 2nd weekend
+  game for the players below..\n\n1. Away vs Verona for Keddell team:\nJo
+ hnson\, Keddell\, McDonnell\, Meskill\, Shone\, Task\, Tycher.\n\nPlease
+  confirm thx Dave. -  \n Uniform: Black (Arrival Time: 10:00 AM (Eastern
+  Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue Keddell team game at Verona vs Ke
+ ddell team
+LOCATION:118 Forest Ave\, Verona\, NJ 07044
+SEQUENCE:5
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201109T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201109T163000
+DTSTAMP;VALUE=DATE-TIME:20201109T020054Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201109T020054Z
+UID:7004706-229270339
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time:  4:30 PM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20201115
+DTSTART;VALUE=DATE:20201114
+DTSTAMP;VALUE=DATE-TIME:20201113T165459Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201113T165459Z
+UID:7004706-229270562
+DESCRIPTION:Location: M vs C Home (1:15)\, K Away in Wycoff 2pm\n Hi - Pe
+ nultimate games of the season coming up! After some great weather and fu
+ n games this weekend we have an intra-club game and an away game on Satu
+ rday. Teams as follows - Please confirm availability on Teamsnap.\n\n1. 
+ Moore vs Crossen\, Home at 1\;15 (arr 12:45)\nM- Cranston\,  Giermek\, M
+ cDonnell\, Moore\, Shine\, Shirkhedkar\, Van Dzura\nC - Abeytunge\, Cros
+ sen\, Deborou\, Meskill\, Payne\, Soni\, Srikanth\n\n2. Keddell Away vs 
+ Torpedoes 2pm (arrive 1:30.. 30 min drive!)\nTeam\; Baker\, Johnson\, Ke
+ ddell\, Minister\, Pulawski\, Task\, Tycher\n\nTorpedoes - Lincoln Schoo
+ l\, Mason Ave\, Wyckoff\, NJ 07841\nRoute 208 NORTH to Russell Avenue Ex
+ it. Left from ramp onto Russell Avenue. Make LEFT onto Wyckoff Avenue\, 
+ and RIGHT onto Franklin Avenue and LEFT onto Mason Avenue. Field is behi
+ nd school at end of Mason Avenue  (Arrival Time: 11:30 PM (Eastern Time 
+ (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys League Games
+LOCATION:TBD\, will vary. Home games at Meadow
+SEQUENCE:6
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201116T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201116T160000
+DTSTAMP;VALUE=DATE-TIME:20201115T232141Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201115T232141Z
+UID:7004706-229270340
+DESCRIPTION:Location: Brookdale Stadium\n Monday 11/16 practice shortened
+ .\nBrookdale Stadium 4-5pm  (Arrival Time:  4:00 PM (Eastern Time (US & 
+ Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201118T170000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201118T160000
+DTSTAMP;VALUE=DATE-TIME:20201116T220944Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201116T220944Z
+UID:7004706-229270399
+DESCRIPTION:Location: Brookdale Stadium\n Weds 11/16 practice shortened.\
+ nBrookdale Stadium 4-5pm  (Arrival Time:  4:00 PM (Eastern Time (US & Ca
+ nada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys PRACTICE
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20201122
+DTSTART;VALUE=DATE:20201121
+DTSTAMP;VALUE=DATE-TIME:20201121T000132Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201121T000132Z
+UID:7004706-229270563
+DESCRIPTION:Location: C Away K\,M Home\n Hi - Last round of games for the
+  Fall! All on Saturday.\n\n1. Crossen team Away  @ 12 Noon vs Americans\
+ nTeam: Baker\, Crossen\, Giermek\, Pulawski\, Srikanth\, Task\, Van Dzur
+ a\n377 West Saddle River Rd\, Upper Saddle River\, NJ 07458\nFrom Rt. 17
+  either north or south\, take Upper Saddle River exit and travel east on
+  Lake Street. Follow Lake Street east to first light and turn left onto 
+ West Saddle River Rd. Firehouse is about 2/10 mile on your left then at 
+ the tennis courts turn left (west) and park in the lot. Field is behind 
+ the school\, west of the tennis courts. East field is nearest the tennis
+  courts. \n\n2. Keddell team Home @ 12:30 vs Ramapo\nTeam: Cranston\, Ke
+ ddell\, McDonnell\, Meskill\, Payne\, Soni\, Tycher\n\n3. Moore team Hom
+ e @ 2pm vs Verona\nTeam: Abeytunge\, Deborou\, Johnson\, Minister\, Moor
+ e\, Shine\, Shirkhedkar.  (Arrival Time: 11:30 PM (Eastern Time (US & Ca
+ nada))) 
+SUMMARY:2013 Boys Montclair United Blue - U8 Boys League Games
+LOCATION:TBD\, will vary. Home games at Meadow
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201128T123044
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201128T111544
+DTSTAMP;VALUE=DATE-TIME:20201127T180353Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201127T180353Z
+UID:7004706-234869510
+DESCRIPTION:This is a chance for the boys to get out for an hour on Satur
+ day...we will set it up for December and then see the situation for the 
+ new year. Thx  (Arrival Time: 11:15 AM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Outdoor Winter training
+LOCATION:Brookdale Meadow  C&D
+SEQUENCE:5
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201205T123044
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201205T111544
+DTSTAMP;VALUE=DATE-TIME:20201205T135344Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201205T135344Z
+UID:7004706-234869511
+DESCRIPTION:[CANCELED] This is a chance for the boys to get out for an ho
+ ur on Saturday...we will set it up for December and then see the situati
+ on for the new year. Thx 
+SUMMARY:[CANCELED] 2013 Boys Montclair United Blue - Outdoor Winter train
+ ing Cancelled today
+LOCATION:Brookdale Meadow  C&D
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201212T123044
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201212T111544
+DTSTAMP;VALUE=DATE-TIME:20201212T120646Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201212T120646Z
+UID:7004706-234869512
+DESCRIPTION:This is a chance for the boys to get out for an hour on Satur
+ day...we will set it up for December and then see the situation for the 
+ new year. Thx  (Arrival Time: 11:15 AM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Outdoor Winter training
+LOCATION:Brookdale Meadow  C&D
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201219T123044
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201219T111544
+DTSTAMP;VALUE=DATE-TIME:20201218T165101Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201218T165101Z
+UID:7004706-234869513
+DESCRIPTION:[CANCELED] This is a chance for the boys to get out for an ho
+ ur on Saturday...we will set it up for December and then see the situati
+ on for the new year. Thx 
+SUMMARY:[CANCELED] 2013 Boys Montclair United Blue - Outdoor Winter train
+ ing
+LOCATION:Brookdale Meadow  C&D
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20201227T121552
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20201227T111552
+DTSTAMP;VALUE=DATE-TIME:20201226T174146Z
+LAST-MODIFIED;VALUE=DATE-TIME:20201226T174146Z
+UID:7004706-235861894
+DESCRIPTION:Hi - let’s get the kids out for a scrimmage. No trainers avai
+ lable but I am happy to coordinate with any other volunteers!  (Arrival 
+ Time: 11:15 AM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Outdoor scrimmage
+LOCATION:Brookdale Meadow B
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210102T111500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210102T111500
+DTSTAMP;VALUE=DATE-TIME:20210107T031032Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210107T031032Z
+UID:7004706-236100831
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time: 11:15 AM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Winter Outdoor Practice
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210109T111500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210109T111500
+DTSTAMP;VALUE=DATE-TIME:20210108T180516Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210108T180516Z
+UID:7004706-236100832
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time: 11:15 AM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Winter Outdoor Practice
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210116T111500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210116T111500
+DTSTAMP;VALUE=DATE-TIME:20210115T180709Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210115T180709Z
+UID:7004706-236100833
+DESCRIPTION:Location: Brookdale Stadium\n   (Arrival Time: 11:15 AM (East
+ ern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Winter Outdoor Practice
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210123T111500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210123T111500
+DTSTAMP;VALUE=DATE-TIME:20210122T202146Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210122T202146Z
+UID:7004706-236100834
+DESCRIPTION:[CANCELED] Location: Brookdale Stadium 
+SUMMARY:[CANCELED] 2013 Boys Montclair United Blue - Winter Outdoor Pract
+ ice
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:12
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210130T111500
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210130T111500
+DTSTAMP;VALUE=DATE-TIME:20210129T135630Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210129T135630Z
+UID:7004706-236100835
+DESCRIPTION:[CANCELED] Location: Brookdale Stadium 
+SUMMARY:[CANCELED] 2013 Boys Montclair United Blue - Winter Outdoor Pract
+ ice
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:7
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20210207
+DTSTART;VALUE=DATE:20210206
+DTSTAMP;VALUE=DATE-TIME:20210205T184411Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210205T184411Z
+UID:7004706-236100836
+DESCRIPTION:[CANCELED] Location: Brookdale Stadium 
+SUMMARY:[CANCELED] 2013 Boys Montclair United Blue - Winter Outdoor Pract
+ ice
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210315T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210315T163000
+DTSTAMP;VALUE=DATE-TIME:20210315T140047Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210315T140047Z
+UID:7004706-239484021
+DESCRIPTION: 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:7
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210317T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210317T163000
+DTSTAMP;VALUE=DATE-TIME:20210315T222900Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210315T222900Z
+UID:7004706-239484085
+DESCRIPTION:(Arrival Time:  4:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:15
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210318T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210318T163000
+DTSTAMP;VALUE=DATE-TIME:20210315T222914Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210315T222914Z
+UID:7004706-239484355
+DESCRIPTION:Location: Brookdale Stadium\n If anyone is interested in gett
+ ing some goalkeeper practice\, there is a session with coach Carlie Till
+  for any U8\,U9 or U10 kids.  (Arrival Time:  4:30 PM (Eastern Time (US 
+ & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Optional Goalkeeping Sessions
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:8
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20210322
+DTSTART;VALUE=DATE:20210321
+DTSTAMP;VALUE=DATE-TIME:20210315T222925Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210315T222925Z
+UID:7004706-239998310
+DESCRIPTION:Each week\, we will post the teams and game details for the u
+ pcoming Sunday on a Teamsnap message.  (Arrival Time: 11:30 PM (Eastern 
+ Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - League Games
+LOCATION:TBD Home games at Meadow
+SEQUENCE:5
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210322T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210322T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125459Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125459Z
+UID:7004706-239484022
+DESCRIPTION: 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210324T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210324T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125503Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125503Z
+UID:7004706-239484086
+DESCRIPTION:(Arrival Time:  4:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210325T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210325T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125508Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125508Z
+UID:7004706-239484356
+DESCRIPTION:Location: Brookdale Stadium\n If anyone is interested in gett
+ ing some goalkeeper practice\, there is a session with coach Carlie Till
+  for any U8\,U9 or U10 kids.  (Arrival Time:  4:30 PM (Eastern Time (US 
+ & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Optional Goalkeeping Sessions
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20210329
+DTSTART;VALUE=DATE:20210328
+DTSTAMP;VALUE=DATE-TIME:20210311T125511Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125511Z
+UID:7004706-239998311
+DESCRIPTION:Each week\, we will post the teams and game details for the u
+ pcoming Sunday on a Teamsnap message.  (Arrival Time: 11:30 PM (Eastern 
+ Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - League Games
+LOCATION:TBD Home games at Meadow
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210329T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210329T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125518Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125518Z
+UID:7004706-239484023
+DESCRIPTION: 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210331T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210331T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125520Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125520Z
+UID:7004706-239484087
+DESCRIPTION:(Arrival Time:  4:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210401T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210401T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125524Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125524Z
+UID:7004706-239484357
+DESCRIPTION:Location: Brookdale Stadium\n If anyone is interested in gett
+ ing some goalkeeper practice\, there is a session with coach Carlie Till
+  for any U8\,U9 or U10 kids.  (Arrival Time:  4:30 PM (Eastern Time (US 
+ & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Optional Goalkeeping Sessions
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210405T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210405T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125547Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125547Z
+UID:7004706-239484024
+DESCRIPTION: 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:3
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210407T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210407T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125550Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125550Z
+UID:7004706-239484088
+DESCRIPTION:(Arrival Time:  4:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210408T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210408T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125553Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125553Z
+UID:7004706-239484358
+DESCRIPTION:Location: Brookdale Stadium\n If anyone is interested in gett
+ ing some goalkeeper practice\, there is a session with coach Carlie Till
+  for any U8\,U9 or U10 kids.  (Arrival Time:  4:30 PM (Eastern Time (US 
+ & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Optional Goalkeeping Sessions
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20210412
+DTSTART;VALUE=DATE:20210411
+DTSTAMP;VALUE=DATE-TIME:20210311T125559Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125559Z
+UID:7004706-239998313
+DESCRIPTION:Each week\, we will post the teams and game details for the u
+ pcoming Sunday on a Teamsnap message.  (Arrival Time: 11:30 PM (Eastern 
+ Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - League Games
+LOCATION:TBD Home games at Meadow
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210412T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210412T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125622Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125622Z
+UID:7004706-239484025
+DESCRIPTION: 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210414T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210414T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125624Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125624Z
+UID:7004706-239484089
+DESCRIPTION:(Arrival Time:  4:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210415T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210415T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125630Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125630Z
+UID:7004706-239484359
+DESCRIPTION:Location: Brookdale Stadium\n If anyone is interested in gett
+ ing some goalkeeper practice\, there is a session with coach Carlie Till
+  for any U8\,U9 or U10 kids.  (Arrival Time:  4:30 PM (Eastern Time (US 
+ & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Optional Goalkeeping Sessions
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20210419
+DTSTART;VALUE=DATE:20210418
+DTSTAMP;VALUE=DATE-TIME:20210311T125632Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125632Z
+UID:7004706-239998314
+DESCRIPTION:Each week\, we will post the teams and game details for the u
+ pcoming Sunday on a Teamsnap message.  (Arrival Time: 11:30 PM (Eastern 
+ Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - League Games
+LOCATION:TBD Home games at Meadow
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210419T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210419T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125635Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125635Z
+UID:7004706-239484026
+DESCRIPTION: 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210421T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210421T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125637Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125637Z
+UID:7004706-239484090
+DESCRIPTION:(Arrival Time:  4:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210422T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210422T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125645Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125645Z
+UID:7004706-239484360
+DESCRIPTION:Location: Brookdale Stadium\n If anyone is interested in gett
+ ing some goalkeeper practice\, there is a session with coach Carlie Till
+  for any U8\,U9 or U10 kids.  (Arrival Time:  4:30 PM (Eastern Time (US 
+ & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Optional Goalkeeping Sessions
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20210426
+DTSTART;VALUE=DATE:20210425
+DTSTAMP;VALUE=DATE-TIME:20210311T112254Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T112254Z
+UID:7004706-239998315
+DESCRIPTION:Each week\, we will post the teams and game details for the u
+ pcoming Sunday on a Teamsnap message.  (Arrival Time: 11:30 PM (Eastern 
+ Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - League Games
+LOCATION:TBD Home games at Meadow
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210426T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210426T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T012744Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T012744Z
+UID:7004706-239484027
+DESCRIPTION: 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210428T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210428T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T012844Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T012844Z
+UID:7004706-239484091
+DESCRIPTION:(Arrival Time:  4:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210429T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210429T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T013234Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T013234Z
+UID:7004706-239484361
+DESCRIPTION:Location: Brookdale Stadium\n If anyone is interested in gett
+ ing some goalkeeper practice\, there is a session with coach Carlie Till
+  for any U8\,U9 or U10 kids.  (Arrival Time:  4:30 PM (Eastern Time (US 
+ & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Optional Goalkeeping Sessions
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20210503
+DTSTART;VALUE=DATE:20210502
+DTSTAMP;VALUE=DATE-TIME:20210311T112254Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T112254Z
+UID:7004706-239998316
+DESCRIPTION:Each week\, we will post the teams and game details for the u
+ pcoming Sunday on a Teamsnap message.  (Arrival Time: 11:30 PM (Eastern 
+ Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - League Games
+LOCATION:TBD Home games at Meadow
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210503T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210503T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T012744Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T012744Z
+UID:7004706-239484028
+DESCRIPTION: 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210505T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210505T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T012844Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T012844Z
+UID:7004706-239484092
+DESCRIPTION:(Arrival Time:  4:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210506T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210506T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125707Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125707Z
+UID:7004706-239484362
+DESCRIPTION:Location: Brookdale Stadium\n If anyone is interested in gett
+ ing some goalkeeper practice\, there is a session with coach Carlie Till
+  for any U8\,U9 or U10 kids.  (Arrival Time:  4:30 PM (Eastern Time (US 
+ & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Optional Goalkeeping Sessions
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20210510
+DTSTART;VALUE=DATE:20210509
+DTSTAMP;VALUE=DATE-TIME:20210311T125703Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125703Z
+UID:7004706-239998317
+DESCRIPTION:Each week\, we will post the teams and game details for the u
+ pcoming Sunday on a Teamsnap message.  (Arrival Time: 11:30 PM (Eastern 
+ Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - League Games
+LOCATION:TBD Home games at Meadow
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210510T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210510T163000
+DTSTAMP;VALUE=DATE-TIME:20210311T125714Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T125714Z
+UID:7004706-239484029
+DESCRIPTION: 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:2
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210512T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210512T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T012844Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T012844Z
+UID:7004706-239484093
+DESCRIPTION:(Arrival Time:  4:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210513T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210513T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T013234Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T013234Z
+UID:7004706-239484363
+DESCRIPTION:Location: Brookdale Stadium\n If anyone is interested in gett
+ ing some goalkeeper practice\, there is a session with coach Carlie Till
+  for any U8\,U9 or U10 kids.  (Arrival Time:  4:30 PM (Eastern Time (US 
+ & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Optional Goalkeeping Sessions
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20210517
+DTSTART;VALUE=DATE:20210516
+DTSTAMP;VALUE=DATE-TIME:20210311T112254Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T112254Z
+UID:7004706-239998318
+DESCRIPTION:Each week\, we will post the teams and game details for the u
+ pcoming Sunday on a Teamsnap message.  (Arrival Time: 11:30 PM (Eastern 
+ Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - League Games
+LOCATION:TBD Home games at Meadow
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210517T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210517T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T012744Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T012744Z
+UID:7004706-239484030
+DESCRIPTION: 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210519T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210519T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T012844Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T012844Z
+UID:7004706-239484094
+DESCRIPTION:(Arrival Time:  4:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210520T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210520T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T013234Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T013234Z
+UID:7004706-239484364
+DESCRIPTION:Location: Brookdale Stadium\n If anyone is interested in gett
+ ing some goalkeeper practice\, there is a session with coach Carlie Till
+  for any U8\,U9 or U10 kids.  (Arrival Time:  4:30 PM (Eastern Time (US 
+ & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Optional Goalkeeping Sessions
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20210524
+DTSTART;VALUE=DATE:20210523
+DTSTAMP;VALUE=DATE-TIME:20210311T112254Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T112254Z
+UID:7004706-239998319
+DESCRIPTION:Each week\, we will post the teams and game details for the u
+ pcoming Sunday on a Teamsnap message.  (Arrival Time: 11:30 PM (Eastern 
+ Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - League Games
+LOCATION:TBD Home games at Meadow
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210524T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210524T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T012744Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T012744Z
+UID:7004706-239484031
+DESCRIPTION: 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210526T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210526T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T012844Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T012844Z
+UID:7004706-239484095
+DESCRIPTION:(Arrival Time:  4:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210527T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210527T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T013234Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T013234Z
+UID:7004706-239484365
+DESCRIPTION:Location: Brookdale Stadium\n If anyone is interested in gett
+ ing some goalkeeper practice\, there is a session with coach Carlie Till
+  for any U8\,U9 or U10 kids.  (Arrival Time:  4:30 PM (Eastern Time (US 
+ & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Optional Goalkeeping Sessions
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210531T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210531T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T012744Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T012744Z
+UID:7004706-239484032
+DESCRIPTION: 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210602T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210602T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T012844Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T012844Z
+UID:7004706-239484096
+DESCRIPTION:(Arrival Time:  4:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210603T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210603T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T013234Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T013234Z
+UID:7004706-239484366
+DESCRIPTION:Location: Brookdale Stadium\n If anyone is interested in gett
+ ing some goalkeeper practice\, there is a session with coach Carlie Till
+  for any U8\,U9 or U10 kids.  (Arrival Time:  4:30 PM (Eastern Time (US 
+ & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Optional Goalkeeping Sessions
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;VALUE=DATE:20210607
+DTSTART;VALUE=DATE:20210606
+DTSTAMP;VALUE=DATE-TIME:20210311T112254Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210311T112254Z
+UID:7004706-239998321
+DESCRIPTION:Each week\, we will post the teams and game details for the u
+ pcoming Sunday on a Teamsnap message.  (Arrival Time: 11:30 PM (Eastern 
+ Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - League Games
+LOCATION:TBD Home games at Meadow
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210607T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210607T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T012744Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T012744Z
+UID:7004706-239484033
+DESCRIPTION: 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210609T173000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210609T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T012844Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T012844Z
+UID:7004706-239484097
+DESCRIPTION:(Arrival Time:  4:30 PM (Eastern Time (US & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Boys U8 Spring Practice
+LOCATION:Brookdale Meadow B
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/New_York;VALUE=DATE-TIME:20210610T163000
+DTSTART;TZID=America/New_York;VALUE=DATE-TIME:20210610T163000
+DTSTAMP;VALUE=DATE-TIME:20210304T013234Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T013234Z
+UID:7004706-239484367
+DESCRIPTION:Location: Brookdale Stadium\n If anyone is interested in gett
+ ing some goalkeeper practice\, there is a session with coach Carlie Till
+  for any U8\,U9 or U10 kids.  (Arrival Time:  4:30 PM (Eastern Time (US 
+ & Canada))) 
+SUMMARY:2013 Boys Montclair United Blue - Optional Goalkeeping Sessions
+LOCATION:East Circuit Drive\, Bloomfield\, NJ 07003
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

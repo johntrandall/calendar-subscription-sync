@@ -1,0 +1,318 @@
+---
+http_interactions:
+- request:
+    method: post
+    uri: https://accounts.google.com/o/oauth2/token
+    body:
+      encoding: ASCII-8BIT
+      string: grant_type=refresh_token&refresh_token=1%2F%2F0dmUiPDHcAVdNCgYIARAAGA0SNwF-L9IrbmZ5KvrXIL5vZwuhriHLvWb-zh3fXBvgRiUdl2I-r72dE1il4cT56CxtpN0jC-8oKcY&client_id=431521155175-jk5tkoac3r0u7f1pkuc9actmacagt4pt.apps.googleusercontent.com&client_secret=u2inh1VF_i_g5aX0EXZsXFTj
+    headers:
+      User-Agent:
+      - Faraday v1.3.0
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store, max-age=0, must-revalidate
+      Pragma:
+      - no-cache
+      Date:
+      - Fri, 19 Mar 2021 13:50:03 GMT
+      Expires:
+      - Mon, 01 Jan 1990 00:00:00 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Vary:
+      - Origin
+      - Referer
+      - X-Origin
+      Server:
+      - scaffolding on HTTPServer2
+      X-Xss-Protection:
+      - '0'
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      Alt-Svc:
+      - h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443";
+        ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: ASCII-8BIT
+      string: |-
+        {
+          "access_token": "ya29.a0AfH6SMDfdOe935yWYIQ35tGFlzudB6RxCfFjhNt2oSI8BBRWlqGtZ5LtoQrlBMup-zdkAG-PtS-md5hi_MFfda8tYNS_lDOTJW7Bbu9HxrSHeK_BWkYn72joCPH4Fd-64yAEk0CH0ZBpK_ty7dEPE2kocHwG_A",
+          "expires_in": 3599,
+          "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/calendar",
+          "token_type": "Bearer",
+          "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZhOGJhNTY1MmE3MDQ0MTIxZDRmZWRhYzhmMTRkMTRjNTRlNDg5NWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNDMxNTIxMTU1MTc1LWprNXRrb2FjM3IwdTdmMXBrdWM5YWN0bWFjYWd0NHB0LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNDMxNTIxMTU1MTc1LWprNXRrb2FjM3IwdTdmMXBrdWM5YWN0bWFjYWd0NHB0LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE2NTc3MjI3NTYzMzE3MTE3Njc2IiwiZW1haWwiOiJqb2huLnJhbmRhbGwuZGV2LnNwZWNAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJwbGlHVFUwRTV6YWZ3Q2N0Z2d4UFZBIiwiaWF0IjoxNjE2MTYxODAzLCJleHAiOjE2MTYxNjU0MDN9.Xn2VcgINVn2XbsJzotFozi24_E0lgMHHcGyuDHKCwZAscRmoqiOcD3L_4mngHVTzDvsMVYBp0jbsm-3lb_qP2lhqmJm3Hq7Ob8xZjH0z3BW_Awbrry49k9IkLKTwZTd6OWB0c0HkH_lq2kAq6f18BXs9GxSXU9XoVJh5ICs6cKVyXH4SujDEh4NXhvOpMGnalHYlL85Dcq0oosRpiaq4FOsHslD-IH9G7An0q4yKqY7PW1gCWHytWHP_mgXZFsdwD9sD0hadVUTzSuUbfDylJNFfeI5309JDutkY_QyS8-sM2bzmyfyDN75rnKsxAe-nzCAgnKm6JFX81KvHB9eYWQ"
+        }
+  recorded_at: Fri, 19 Mar 2021 13:50:03 GMT
+- request:
+    method: post
+    uri: https://www.googleapis.com/calendar/v3/calendars/primary/events
+    body:
+      encoding: UTF-8
+      string: '{"description":["Location: See notes belowHi -teams below - please
+        confirm your availability if you have not already"],"end":{"date":"2020-09-27"},"location":"Varied
+        - See notes","start":{"date":"2020-09-26"},"status":"confirmed","summary":"2013
+        Boys Montclair United Blue - U8 Boys League Games"}'
+    headers:
+      User-Agent:
+      - unknown/0.0.0 google-api-ruby-client/0.3.0 Mac OS X/10.15.7 (gzip)
+      Accept:
+      - "*/*"
+      Accept-Encoding:
+      - gzip,deflate
+      Date:
+      - Fri, 19 Mar 2021 13:50:03 GMT
+      X-Goog-Api-Client:
+      - gl-ruby/2.7.2 gdcl/1.3.0
+      Content-Type:
+      - application/json
+      Authorization:
+      - Bearer ya29.a0AfH6SMDfdOe935yWYIQ35tGFlzudB6RxCfFjhNt2oSI8BBRWlqGtZ5LtoQrlBMup-zdkAG-PtS-md5hi_MFfda8tYNS_lDOTJW7Bbu9HxrSHeK_BWkYn72joCPH4Fd-64yAEk0CH0ZBpK_ty7dEPE2kocHwG_A
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Pragma:
+      - no-cache
+      Expires:
+      - Mon, 01 Jan 1990 00:00:00 GMT
+      Content-Type:
+      - application/json; charset=UTF-8
+      Cache-Control:
+      - no-cache, no-store, max-age=0, must-revalidate
+      Date:
+      - Fri, 19 Mar 2021 13:50:03 GMT
+      Etag:
+      - '"3232323607367000"'
+      Vary:
+      - Origin
+      - Referer
+      - X-Origin
+      Content-Encoding:
+      - gzip
+      Server:
+      - ESF
+      X-Xss-Protection:
+      - '0'
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      Alt-Svc:
+      - h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443";
+        ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: |
+        {
+         "kind": "calendar#event",
+         "etag": "\"3232323607367000\"",
+         "id": "mmgdcumu1qa450fhi09iamhibs",
+         "status": "confirmed",
+         "htmlLink": "https://www.google.com/calendar/event?eid=bW1nZGN1bXUxcWE0NTBmaGkwOWlhbWhpYnMgam9obi5yYW5kYWxsLmRldi5zcGVjQG0",
+         "created": "2021-03-19T13:50:03.000Z",
+         "updated": "2021-03-19T13:50:03.717Z",
+         "summary": "2013 Boys Montclair United Blue - U8 Boys League Games",
+         "description": "Location: See notes belowHi -teams below - please confirm your availability if you have not already",
+         "location": "Varied - See notes",
+         "creator": {
+          "email": "john.randall.dev.spec@gmail.com",
+          "self": true
+         },
+         "organizer": {
+          "email": "john.randall.dev.spec@gmail.com",
+          "self": true
+         },
+         "start": {
+          "date": "2020-09-26"
+         },
+         "end": {
+          "date": "2020-09-27"
+         },
+         "iCalUID": "mmgdcumu1qa450fhi09iamhibs@google.com",
+         "sequence": 0,
+         "reminders": {
+          "useDefault": false,
+          "overrides": [
+           {
+            "method": "popup",
+            "minutes": 30
+           }
+          ]
+         },
+         "eventType": "default"
+        }
+  recorded_at: Fri, 19 Mar 2021 13:50:03 GMT
+- request:
+    method: post
+    uri: https://accounts.google.com/o/oauth2/token
+    body:
+      encoding: ASCII-8BIT
+      string: grant_type=refresh_token&refresh_token=1%2F%2F0dmUiPDHcAVdNCgYIARAAGA0SNwF-L9IrbmZ5KvrXIL5vZwuhriHLvWb-zh3fXBvgRiUdl2I-r72dE1il4cT56CxtpN0jC-8oKcY&client_id=431521155175-jk5tkoac3r0u7f1pkuc9actmacagt4pt.apps.googleusercontent.com&client_secret=u2inh1VF_i_g5aX0EXZsXFTj
+    headers:
+      User-Agent:
+      - Faraday v1.3.0
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Pragma:
+      - no-cache
+      Expires:
+      - Mon, 01 Jan 1990 00:00:00 GMT
+      Date:
+      - Fri, 19 Mar 2021 13:50:04 GMT
+      Cache-Control:
+      - no-cache, no-store, max-age=0, must-revalidate
+      Content-Type:
+      - application/json; charset=utf-8
+      Vary:
+      - Origin
+      - Referer
+      - X-Origin
+      Server:
+      - scaffolding on HTTPServer2
+      X-Xss-Protection:
+      - '0'
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      Alt-Svc:
+      - h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443";
+        ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: ASCII-8BIT
+      string: |-
+        {
+          "access_token": "ya29.a0AfH6SMB8wm2JO0DkkDRBz2O0Ae5C4wYF6bbgsruhsGg8jFbfk6RtDWmY5HAXf7EN1TRrZCKxzRmBK-SekXmzTDsMs_BIkyrBj-UxUXi4P9_0bk5iK7wnRud_WcZh6t5R-B52Vs9NNtRdK93SkU8SZSkc3lZCFA",
+          "expires_in": 3599,
+          "scope": "https://www.googleapis.com/auth/userinfo.profile openid https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/calendar",
+          "token_type": "Bearer",
+          "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZhOGJhNTY1MmE3MDQ0MTIxZDRmZWRhYzhmMTRkMTRjNTRlNDg5NWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNDMxNTIxMTU1MTc1LWprNXRrb2FjM3IwdTdmMXBrdWM5YWN0bWFjYWd0NHB0LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNDMxNTIxMTU1MTc1LWprNXRrb2FjM3IwdTdmMXBrdWM5YWN0bWFjYWd0NHB0LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE2NTc3MjI3NTYzMzE3MTE3Njc2IiwiZW1haWwiOiJqb2huLnJhbmRhbGwuZGV2LnNwZWNAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiIxYkdocnF1aHNHYThOeHVfRlF4TEpnIiwiaWF0IjoxNjE2MTYxODA0LCJleHAiOjE2MTYxNjU0MDR9.YAdUanuTAjpmDjrPWHRGfSF4lrJaqb912dDL_4bLeKVJxsPSJ9gLLKD7WghqhpfIK97sP_Qg_I5Z94sWRGBfKFxS8uACHjST6xdisahHJXUAKG84zxf2JnZAXMblXDwfBUg9Tk_aRALoOLKel4LGeZJnLnXfDuTit_LMt4kO5wOmKtrIn3Kt5QD4O17CEc2lP0xBy9SBcwrKhuft2WeJFeuNZ82hn2LUJqyLmkZlaked9WHS5-voIgV68shS7UJLqXVU_R39ZgZ0YZrBjA3kLwR9OAkWvaWLDW_RTVButZFtfcN9D4NxnZYqoXNpGkcFPAZ8kMBPeMQkH-zmIkKO7Q"
+        }
+  recorded_at: Fri, 19 Mar 2021 13:50:04 GMT
+- request:
+    method: get
+    uri: https://www.googleapis.com/calendar/v3/calendars/primary/events/mmgdcumu1qa450fhi09iamhibs
+    body:
+      encoding: UTF-8
+      string: ''
+    headers:
+      User-Agent:
+      - unknown/0.0.0 google-api-ruby-client/0.3.0 Mac OS X/10.15.7 (gzip)
+      Accept:
+      - "*/*"
+      Accept-Encoding:
+      - gzip,deflate
+      Date:
+      - Fri, 19 Mar 2021 13:50:04 GMT
+      X-Goog-Api-Client:
+      - gl-ruby/2.7.2 gdcl/1.3.0
+      Authorization:
+      - Bearer ya29.a0AfH6SMB8wm2JO0DkkDRBz2O0Ae5C4wYF6bbgsruhsGg8jFbfk6RtDWmY5HAXf7EN1TRrZCKxzRmBK-SekXmzTDsMs_BIkyrBj-UxUXi4P9_0bk5iK7wnRud_WcZh6t5R-B52Vs9NNtRdK93SkU8SZSkc3lZCFA
+      Content-Type:
+      - application/x-www-form-urlencoded
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - private, max-age=0, must-revalidate, no-transform
+      Content-Type:
+      - application/json; charset=UTF-8
+      Expires:
+      - Fri, 19 Mar 2021 13:50:04 GMT
+      Etag:
+      - '"3232323607367000"'
+      Date:
+      - Fri, 19 Mar 2021 13:50:04 GMT
+      Vary:
+      - Origin
+      - Referer
+      - X-Origin
+      Content-Encoding:
+      - gzip
+      Server:
+      - ESF
+      X-Xss-Protection:
+      - '0'
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      Alt-Svc:
+      - h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443";
+        ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: |
+        {
+         "kind": "calendar#event",
+         "etag": "\"3232323607367000\"",
+         "id": "mmgdcumu1qa450fhi09iamhibs",
+         "status": "confirmed",
+         "htmlLink": "https://www.google.com/calendar/event?eid=bW1nZGN1bXUxcWE0NTBmaGkwOWlhbWhpYnMgam9obi5yYW5kYWxsLmRldi5zcGVjQG0",
+         "created": "2021-03-19T13:50:03.000Z",
+         "updated": "2021-03-19T13:50:03.717Z",
+         "summary": "2013 Boys Montclair United Blue - U8 Boys League Games",
+         "description": "Location: See notes belowHi -teams below - please confirm your availability if you have not already",
+         "location": "Varied - See notes",
+         "creator": {
+          "email": "john.randall.dev.spec@gmail.com",
+          "self": true
+         },
+         "organizer": {
+          "email": "john.randall.dev.spec@gmail.com",
+          "self": true
+         },
+         "start": {
+          "date": "2020-09-26"
+         },
+         "end": {
+          "date": "2020-09-27"
+         },
+         "iCalUID": "mmgdcumu1qa450fhi09iamhibs@google.com",
+         "sequence": 0,
+         "reminders": {
+          "useDefault": false,
+          "overrides": [
+           {
+            "method": "popup",
+            "minutes": 30
+           }
+          ]
+         },
+         "eventType": "default"
+        }
+  recorded_at: Fri, 19 Mar 2021 13:50:04 GMT
+recorded_with: VCR 6.0.0

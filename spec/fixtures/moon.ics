@@ -1,0 +1,1677 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WebCal.fi//NONSGML iCalendar Creator 6.0 (2019-07
+ -28)//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:FALSE
+X-WR-CALNAME:Moon
+X-WR-RELCALID;VALUE=TEXT:F622112D-7CA5-4E42-A336-CD3C6A9BD6
+ 2C@webcal.fi
+X-WR-CALDESC;VALUE=TEXT:Moon phases\, lunar eclipses\, peri
+ gee & apogee. Update weekly.
+X-PUBLISHED-TTL;VALUE=TEXT:P1W
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-OWNER;VALUE=TEXT:CN="Aapo Puskala":mailto:info@webcal.fi
+X-APPLE-CALENDAR-COLOR:#666666
+X-OUTLOOK-COLOR:#666666
+X-FUNAMBOL-COLOR:#666666
+X-LOTUS-CHARSET:UTF-8
+BEGIN:VEVENT
+UID:62077E70-6834-432B-A92C-49197EDC1151@webcal.fi
+DTSTART;VALUE=DATE:20210214
+DTEND;VALUE=DATE:20210215
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Calendar Moon begins. This calendar sho
+ ws 3 weeks into the past.
+DESCRIPTION;LANGUAGE=en:Calendar Moon begins. This calendar
+  shows 3 weeks into the past.
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Calendar
+  Moon begins. This calendar shows 3 weeks into the past.</t
+ itle></head><body><p>Calendar Moon begins. This calendar sh
+ ows 3 weeks into the past.</p><p><a href='http://en.wikiped
+ ia.org/wiki/Moon'>Moon</a></p></body></html>
+URL:http://en.wikipedia.org/wiki/Moon
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1495E38B-89B4-4C0C-AA2D-B516DADBA8BE@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210120T210335Z
+DTEND;VALUE=DATE-TIME:20210120T210335Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌓 1st Quarter
+DESCRIPTION:🌓 1st Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌓 1st Quarter</title
+ ></head><body><p>🌓 1st Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌓 1st Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/kasvava_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /kasvava_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/kasv
+ ava_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:D16417AE-CE28-40A9-ADD9-B7777FBBBF9F@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210128T191835Z
+DTEND;VALUE=DATE-TIME:20210128T191835Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌕 Full moon
+DESCRIPTION:🌕 Full moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌕 Full moon</title><
+ /head><body><p>🌕 Full moon</p><p><a href='http://www.webcal
+ .fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌕 Full moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/taysikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /taysikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/tays
+ ikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:EADBF31C-3CE5-4001-AF72-C297668D1F7D@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210204T173842Z
+DTEND;VALUE=DATE-TIME:20210204T173842Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌗 3rd Quarter
+DESCRIPTION:🌗 3rd Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌗 3rd Quarter</title
+ ></head><body><p>🌗 3rd Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌗 3rd Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/vaheneva_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /vaheneva_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/vahe
+ neva_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2C83CBD5-AEAB-406B-AF13-6F1E161B14F8@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210211T190811Z
+DTEND;VALUE=DATE-TIME:20210211T190811Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌑 New moon
+DESCRIPTION:🌑 New moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌑 New moon</title></
+ head><body><p>🌑 New moon</p><p><a href='http://www.webcal.f
+ i/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌑 New moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/uusi_kuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /uusi_kuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/uusi
+ _kuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:F0E3C512-4753-4C00-A2D7-ECC215BBB250@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210219T184906Z
+DTEND;VALUE=DATE-TIME:20210219T184906Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌓 1st Quarter
+DESCRIPTION:🌓 1st Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌓 1st Quarter</title
+ ></head><body><p>🌓 1st Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌓 1st Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/kasvava_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /kasvava_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/kasv
+ ava_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4FC6E324-209C-4639-A992-90BE3352BE1C@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210227T081936Z
+DTEND;VALUE=DATE-TIME:20210227T081936Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌕 Full moon
+DESCRIPTION:🌕 Full moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌕 Full moon</title><
+ /head><body><p>🌕 Full moon</p><p><a href='http://www.webcal
+ .fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌕 Full moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/taysikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /taysikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/tays
+ ikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:033BA61C-3F14-423D-A4C4-5957FC448F14@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210306T013200Z
+DTEND;VALUE=DATE-TIME:20210306T013200Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌗 3rd Quarter
+DESCRIPTION:🌗 3rd Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌗 3rd Quarter</title
+ ></head><body><p>🌗 3rd Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌗 3rd Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/vaheneva_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /vaheneva_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/vahe
+ neva_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:66B27B2A-58CF-41E1-A8F0-1CD140D0C11A@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210313T102332Z
+DTEND;VALUE=DATE-TIME:20210313T102332Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌑 New moon
+DESCRIPTION:🌑 New moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌑 New moon</title></
+ head><body><p>🌑 New moon</p><p><a href='http://www.webcal.f
+ i/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌑 New moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/uusi_kuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /uusi_kuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/uusi
+ _kuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:47E7B424-5792-4242-A621-CAE222E2D7BA@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210321T144146Z
+DTEND;VALUE=DATE-TIME:20210321T144146Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌓 1st Quarter
+DESCRIPTION:🌓 1st Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌓 1st Quarter</title
+ ></head><body><p>🌓 1st Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌓 1st Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/kasvava_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /kasvava_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/kasv
+ ava_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:49C887BF-8ABE-4FAB-A6F7-8625C20D0306@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210328T185004Z
+DTEND;VALUE=DATE-TIME:20210328T185004Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌕 Full moon
+DESCRIPTION:🌕 Full moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌕 Full moon</title><
+ /head><body><p>🌕 Full moon</p><p><a href='http://www.webcal
+ .fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌕 Full moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/taysikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /taysikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/tays
+ ikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:CA0FC772-B00A-4CB9-AF4A-C26052486839@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210404T100412Z
+DTEND;VALUE=DATE-TIME:20210404T100412Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌗 3rd Quarter
+DESCRIPTION:🌗 3rd Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌗 3rd Quarter</title
+ ></head><body><p>🌗 3rd Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌗 3rd Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/vaheneva_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /vaheneva_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/vahe
+ neva_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:A1DE1EF7-4781-4BF6-A148-72DB63ADD950@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210412T023256Z
+DTEND;VALUE=DATE-TIME:20210412T023256Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌑 New moon
+DESCRIPTION:🌑 New moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌑 New moon</title></
+ head><body><p>🌑 New moon</p><p><a href='http://www.webcal.f
+ i/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌑 New moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/uusi_kuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /uusi_kuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/uusi
+ _kuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:B10D22DE-398E-4903-A883-B47BEEAF25C7@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210420T070001Z
+DTEND;VALUE=DATE-TIME:20210420T070001Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌓 1st Quarter
+DESCRIPTION:🌓 1st Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌓 1st Quarter</title
+ ></head><body><p>🌓 1st Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌓 1st Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/kasvava_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /kasvava_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/kasv
+ ava_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:72A5E47B-7529-462E-AB27-2FE3073F828B@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210427T033304Z
+DTEND;VALUE=DATE-TIME:20210427T033304Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌕 Full moon
+DESCRIPTION:🌕 Full moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌕 Full moon</title><
+ /head><body><p>🌕 Full moon</p><p><a href='http://www.webcal
+ .fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌕 Full moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/taysikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /taysikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/tays
+ ikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:C4296A20-D8C3-4BB8-A8DE-BAD562D4D480@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210427T033304Z
+DTEND;VALUE=DATE-TIME:20210427T033304Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:Supermoon
+DESCRIPTION:Supermoon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>Supermoon</title></h
+ ead><body><p><a href='http://www.webcal.fi/goto.php?t=1818'
+ >Supermoon</a></p><p><a href='http://www.webcal.fi/goto.php
+ ?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Supermoon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/taysikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /taysikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/tays
+ ikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1818
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:50E34B07-8F83-47FC-A00E-00EF374C0001@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210503T195143Z
+DTEND;VALUE=DATE-TIME:20210503T195143Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌗 3rd Quarter
+DESCRIPTION:🌗 3rd Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌗 3rd Quarter</title
+ ></head><body><p>🌗 3rd Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌗 3rd Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/vaheneva_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /vaheneva_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/vahe
+ neva_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4039490E-3AEB-4F16-A91E-174A35E57A10@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210511T190133Z
+DTEND;VALUE=DATE-TIME:20210511T190133Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌑 New moon
+DESCRIPTION:🌑 New moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌑 New moon</title></
+ head><body><p>🌑 New moon</p><p><a href='http://www.webcal.f
+ i/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌑 New moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/uusi_kuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /uusi_kuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/uusi
+ _kuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7C82EE60-4415-477E-ACE9-A1FB5BB0D02A@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210519T191313Z
+DTEND;VALUE=DATE-TIME:20210519T191313Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌓 1st Quarter
+DESCRIPTION:🌓 1st Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌓 1st Quarter</title
+ ></head><body><p>🌓 1st Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌓 1st Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/kasvava_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /kasvava_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/kasv
+ ava_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2B100AAC-943F-4BF5-A282-5AD1DEA67049@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210526T111451Z
+DTEND;VALUE=DATE-TIME:20210526T111451Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌕 Full moon
+DESCRIPTION:🌕 Full moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌕 Full moon</title><
+ /head><body><p>🌕 Full moon</p><p><a href='http://www.webcal
+ .fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌕 Full moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/taysikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /taysikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/tays
+ ikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3642B8B2-50D0-46B2-A3F4-7C29FFA6C029@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210526T111451Z
+DTEND;VALUE=DATE-TIME:20210526T111451Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:Supermoon
+DESCRIPTION:Supermoon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>Supermoon</title></h
+ ead><body><p><a href='http://www.webcal.fi/goto.php?t=1818'
+ >Supermoon</a></p><p><a href='http://www.webcal.fi/goto.php
+ ?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Supermoon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/taysikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /taysikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/tays
+ ikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1818
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:A12F3312-56E1-47D1-AFB7-3C50DA1681F9@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210602T072604Z
+DTEND;VALUE=DATE-TIME:20210602T072604Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌗 3rd Quarter
+DESCRIPTION:🌗 3rd Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌗 3rd Quarter</title
+ ></head><body><p>🌗 3rd Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌗 3rd Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/vaheneva_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /vaheneva_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/vahe
+ neva_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5666179B-CECB-482A-AC7E-E72F813F45A7@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210610T105405Z
+DTEND;VALUE=DATE-TIME:20210610T105405Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌑 New moon
+DESCRIPTION:🌑 New moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌑 New moon</title></
+ head><body><p>🌑 New moon</p><p><a href='http://www.webcal.f
+ i/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌑 New moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/uusi_kuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /uusi_kuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/uusi
+ _kuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:295AD1E4-838B-4E3C-A2E3-1651B2E5CFDF@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210618T035444Z
+DTEND;VALUE=DATE-TIME:20210618T035444Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌓 1st Quarter
+DESCRIPTION:🌓 1st Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌓 1st Quarter</title
+ ></head><body><p>🌓 1st Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌓 1st Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/kasvava_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /kasvava_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/kasv
+ ava_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:FBAF9C64-8B13-4941-A5D8-8B16997C3876@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210624T184014Z
+DTEND;VALUE=DATE-TIME:20210624T184014Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌕 Full moon
+DESCRIPTION:🌕 Full moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌕 Full moon</title><
+ /head><body><p>🌕 Full moon</p><p><a href='http://www.webcal
+ .fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌕 Full moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/taysikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /taysikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/tays
+ ikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6BE6175D-A460-4FDE-A0CE-5CCF977D7A49@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210701T211239Z
+DTEND;VALUE=DATE-TIME:20210701T211239Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌗 3rd Quarter
+DESCRIPTION:🌗 3rd Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌗 3rd Quarter</title
+ ></head><body><p>🌗 3rd Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌗 3rd Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/vaheneva_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /vaheneva_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/vahe
+ neva_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:463A7D6E-C107-4314-AD6C-9F1E174146EF@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210710T011743Z
+DTEND;VALUE=DATE-TIME:20210710T011743Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌑 New moon
+DESCRIPTION:🌑 New moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌑 New moon</title></
+ head><body><p>🌑 New moon</p><p><a href='http://www.webcal.f
+ i/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌑 New moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/uusi_kuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /uusi_kuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/uusi
+ _kuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1FDCE70C-667D-49E0-A6B4-B7D15885B25F@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210717T101137Z
+DTEND;VALUE=DATE-TIME:20210717T101137Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌓 1st Quarter
+DESCRIPTION:🌓 1st Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌓 1st Quarter</title
+ ></head><body><p>🌓 1st Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌓 1st Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/kasvava_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /kasvava_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/kasv
+ ava_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:372D3E00-CA66-4212-A617-57019B6CBADF@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210724T023727Z
+DTEND;VALUE=DATE-TIME:20210724T023727Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌕 Full moon
+DESCRIPTION:🌕 Full moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌕 Full moon</title><
+ /head><body><p>🌕 Full moon</p><p><a href='http://www.webcal
+ .fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌕 Full moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/taysikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /taysikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/tays
+ ikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:28496090-27C4-4DBC-AD6C-A3E9BED049E7@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210731T131816Z
+DTEND;VALUE=DATE-TIME:20210731T131816Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌗 3rd Quarter
+DESCRIPTION:🌗 3rd Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌗 3rd Quarter</title
+ ></head><body><p>🌗 3rd Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌗 3rd Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/vaheneva_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /vaheneva_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/vahe
+ neva_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:19B74E4B-9B69-4A50-ABBD-EBBDF340FD8C@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210808T135046Z
+DTEND;VALUE=DATE-TIME:20210808T135046Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌑 New moon
+DESCRIPTION:🌑 New moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌑 New moon</title></
+ head><body><p>🌑 New moon</p><p><a href='http://www.webcal.f
+ i/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌑 New moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/uusi_kuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /uusi_kuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/uusi
+ _kuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8184A4A0-D0C3-420F-A85B-553FA63B947A@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210815T152104Z
+DTEND;VALUE=DATE-TIME:20210815T152104Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌓 1st Quarter
+DESCRIPTION:🌓 1st Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌓 1st Quarter</title
+ ></head><body><p>🌓 1st Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌓 1st Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/kasvava_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /kasvava_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/kasv
+ ava_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5658BF6A-415C-4E2D-AB21-8F192D2AC16A@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210822T120215Z
+DTEND;VALUE=DATE-TIME:20210822T120215Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌕 Full moon
+DESCRIPTION:🌕 Full moon
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌕 Full moon</title><
+ /head><body><p>🌕 Full moon</p><p><a href='http://www.webcal
+ .fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌕 Full moon
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/taysikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /taysikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/tays
+ ikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:98662791-168C-42C4-AFF1-CB656CB8B4C4@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210830T071502Z
+DTEND;VALUE=DATE-TIME:20210830T071502Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY:🌗 3rd Quarter
+DESCRIPTION:🌗 3rd Quarter
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE html PUBLIC "-//W3C/
+ /DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD
+ /xhtml1-strict.dtd"><html><head><title>🌗 3rd Quarter</title
+ ></head><body><p>🌗 3rd Quarter</p><p><a href='http://www.we
+ bcal.fi/goto.php?t=1816'>Moon</a></p></body></html>
+X-GOOGLE-CALENDAR-CONTENT-TITLE:🌗 3rd Quarter
+X-GOOGLE-CALENDAR-CONTENT-ICON:http://www.webcal.fi/_img/ku
+ u/vaheneva_puolikuu_16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:http://www.webcal.fi/_img/kuu
+ /vaheneva_puolikuu_64.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/png
+X-GOOGLE-CALENDAR-CONTENT-WIDTH:50
+X-GOOGLE-CALENDAR-CONTENT-HEIGHT:50
+ATTACH;FMTTYPE=image/png:http://www.webcal.fi/_img/kuu/vahe
+ neva_puolikuu_64.png
+URL:http://www.webcal.fi/goto.php?t=1816
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:87BB54D9-6E18-419D-A04B-61509C71AAB0@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210218T102200Z
+DTEND;VALUE=DATE-TIME:20210218T102200Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Apogee\, 251\,324 mi
+DESCRIPTION;LANGUAGE=en:Apogee\, 251\,324 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Apogee\\
+ \, 251\\\,324 mi</title></head><body><p><a href='http://www
+ .webcal.fi/goto.php?t=1819'>Apogee\, 251\,324 mi</a></p><p>
+ <a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></p>
+ </body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:11F4486C-C42B-4BEB-A0ED-66CCC0FDCB71@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210302T051900Z
+DTEND;VALUE=DATE-TIME:20210302T051900Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Perigee\, 227\,063 mi
+DESCRIPTION;LANGUAGE=en:Perigee\, 227\,063 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Perigee\
+ \\, 227\\\,063 mi</title></head><body><p><a href='http://ww
+ w.webcal.fi/goto.php?t=1819'>Perigee\, 227\,063 mi</a></p><
+ p><a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></
+ p></body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5952CB87-E781-46FD-A846-6A5D2084689E@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210318T050400Z
+DTEND;VALUE=DATE-TIME:20210318T050400Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Apogee\, 251\,813 mi
+DESCRIPTION;LANGUAGE=en:Apogee\, 251\,813 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Apogee\\
+ \, 251\\\,813 mi</title></head><body><p><a href='http://www
+ .webcal.fi/goto.php?t=1819'>Apogee\, 251\,813 mi</a></p><p>
+ <a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></p>
+ </body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:DAB2E5A1-9195-4C5B-A388-514998B8ECC9@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210330T061200Z
+DTEND;VALUE=DATE-TIME:20210330T061200Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Perigee\, 223\,887 mi
+DESCRIPTION;LANGUAGE=en:Perigee\, 223\,887 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Perigee\
+ \\, 223\\\,887 mi</title></head><body><p><a href='http://ww
+ w.webcal.fi/goto.php?t=1819'>Perigee\, 223\,887 mi</a></p><
+ p><a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></
+ p></body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:A18A6377-8982-40A2-A2C3-679D9E0166BA@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210414T174700Z
+DTEND;VALUE=DATE-TIME:20210414T174700Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Apogee\, 252\,351 mi
+DESCRIPTION;LANGUAGE=en:Apogee\, 252\,351 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Apogee\\
+ \, 252\\\,351 mi</title></head><body><p><a href='http://www
+ .webcal.fi/goto.php?t=1819'>Apogee\, 252\,351 mi</a></p><p>
+ <a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></p>
+ </body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:B188163B-6114-498E-AD54-D1543A6903D4@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210427T152400Z
+DTEND;VALUE=DATE-TIME:20210427T152400Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Perigee\, 222\,065 mi
+DESCRIPTION;LANGUAGE=en:Perigee\, 222\,065 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Perigee\
+ \\, 222\\\,065 mi</title></head><body><p><a href='http://ww
+ w.webcal.fi/goto.php?t=1819'>Perigee\, 222\,065 mi</a></p><
+ p><a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></
+ p></body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:409E8870-F3A6-4D10-A1FA-301247F2BEE4@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210511T215400Z
+DTEND;VALUE=DATE-TIME:20210511T215400Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Apogee\, 252\,595 mi
+DESCRIPTION;LANGUAGE=en:Apogee\, 252\,595 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Apogee\\
+ \, 252\\\,595 mi</title></head><body><p><a href='http://www
+ .webcal.fi/goto.php?t=1819'>Apogee\, 252\,595 mi</a></p><p>
+ <a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></p>
+ </body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5DDB1FA9-5576-4C27-AE74-5AFB92696394@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210526T015200Z
+DTEND;VALUE=DATE-TIME:20210526T015200Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Perigee\, 222\,022 mi
+DESCRIPTION;LANGUAGE=en:Perigee\, 222\,022 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Perigee\
+ \\, 222\\\,022 mi</title></head><body><p><a href='http://ww
+ w.webcal.fi/goto.php?t=1819'>Perigee\, 222\,022 mi</a></p><
+ p><a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></
+ p></body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:40A3E3DE-22C8-4401-A2BC-A042220EDA24@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210526T104453Z
+DTEND;VALUE=DATE-TIME:20210526T115453Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Lunar eclipse (total)
+DESCRIPTION;LANGUAGE=en:Lunar eclipse (total)
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Lunar ec
+ lipse (total)</title></head><body><p><a href='http://www.we
+ bcal.fi/goto.php?t=18306'>Lunar eclipse (total)</a></p><p><
+ a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></p><
+ /body></html>
+GEO:-21.000000;-170.000000
+URL:http://www.webcal.fi/goto.php?t=18306
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:EDFB5A1C-B933-4C6F-A462-056E46DCA62C@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210608T022700Z
+DTEND;VALUE=DATE-TIME:20210608T022700Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Apogee\, 252\,420 mi
+DESCRIPTION;LANGUAGE=en:Apogee\, 252\,420 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Apogee\\
+ \, 252\\\,420 mi</title></head><body><p><a href='http://www
+ .webcal.fi/goto.php?t=1819'>Apogee\, 252\,420 mi</a></p><p>
+ <a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></p>
+ </body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:A28599B8-2CD5-48CC-A9D2-91B645F4CAD4@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210623T095800Z
+DTEND;VALUE=DATE-TIME:20210623T095800Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Perigee\, 223\,669 mi
+DESCRIPTION;LANGUAGE=en:Perigee\, 223\,669 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Perigee\
+ \\, 223\\\,669 mi</title></head><body><p><a href='http://ww
+ w.webcal.fi/goto.php?t=1819'>Perigee\, 223\,669 mi</a></p><
+ p><a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></
+ p></body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:9FF28302-73D9-4A08-AEE0-1284971CEE57@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210705T144800Z
+DTEND;VALUE=DATE-TIME:20210705T144800Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Apogee\, 251\,868 mi
+DESCRIPTION;LANGUAGE=en:Apogee\, 251\,868 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Apogee\\
+ \, 251\\\,868 mi</title></head><body><p><a href='http://www
+ .webcal.fi/goto.php?t=1819'>Apogee\, 251\,868 mi</a></p><p>
+ <a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></p>
+ </body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:A9003164-31B8-412A-A3C1-9CE70151C1EE@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210721T103000Z
+DTEND;VALUE=DATE-TIME:20210721T103000Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Perigee\, 226\,502 mi
+DESCRIPTION;LANGUAGE=en:Perigee\, 226\,502 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Perigee\
+ \\, 226\\\,502 mi</title></head><body><p><a href='http://ww
+ w.webcal.fi/goto.php?t=1819'>Perigee\, 226\,502 mi</a></p><
+ p><a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></
+ p></body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8954A198-72DC-4D12-A919-9CDABDB8195A@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210802T073500Z
+DTEND;VALUE=DATE-TIME:20210802T073500Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Apogee\, 251\,290 mi
+DESCRIPTION;LANGUAGE=en:Apogee\, 251\,290 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Apogee\\
+ \, 251\\\,290 mi</title></head><body><p><a href='http://www
+ .webcal.fi/goto.php?t=1819'>Apogee\, 251\,290 mi</a></p><p>
+ <a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></p>
+ </body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:764D29A0-36E9-4CF9-A12A-BA42DE1B3FDE@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210817T092300Z
+DTEND;VALUE=DATE-TIME:20210817T092300Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Perigee\, 229\,365 mi
+DESCRIPTION;LANGUAGE=en:Perigee\, 229\,365 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Perigee\
+ \\, 229\\\,365 mi</title></head><body><p><a href='http://ww
+ w.webcal.fi/goto.php?t=1819'>Perigee\, 229\,365 mi</a></p><
+ p><a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></
+ p></body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:55EBF27A-C0A6-4CDD-AA9B-BDFAD0ADCA0A@webcal.fi
+DTSTART;VALUE=DATE-TIME:20210830T022200Z
+DTEND;VALUE=DATE-TIME:20210830T022200Z
+X-FUNAMBOL-ALLDAY:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Apogee\, 251\,096 mi
+DESCRIPTION;LANGUAGE=en:Apogee\, 251\,096 mi
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Apogee\\
+ \, 251\\\,096 mi</title></head><body><p><a href='http://www
+ .webcal.fi/goto.php?t=1819'>Apogee\, 251\,096 mi</a></p><p>
+ <a href='http://www.webcal.fi/goto.php?t=1816'>Moon</a></p>
+ </body></html>
+URL:http://www.webcal.fi/goto.php?t=1819
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+BEGIN:VEVENT
+UID:415AEA09-A1B0-4F56-ABFF-E08106CE2E8D@webcal.fi
+DTSTART;VALUE=DATE:20210906
+DTEND;VALUE=DATE:20210907
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CLASS:PUBLIC
+SUMMARY;LANGUAGE=en:Calendar Moon ends. This calendar shows
+  27 weeks into the future. If your calendar is not updated\
+ , please set your calendar software to update automatically
+  or re-subscribe the calendar from www.webcal.fi.
+DESCRIPTION;LANGUAGE=en:Calendar Moon ends. This calendar s
+ hows 27 weeks into the future. If your calendar is not upda
+ ted\, please set your calendar software to update automatic
+ ally or re-subscribe the calendar from www.webcal.fi.
+X-ALT-DESC;LANGUAGE=en;FMTTYPE=text/html:<!DOCTYPE html PUB
+ LIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/T
+ R/xhtml1/DTD/xhtml1-strict.dtd"><html><head><title>Calendar
+  Moon ends. This calendar shows 27 weeks into the future. I
+ f your calendar is not updated\\\, please set your calendar
+  software to update automatically or re-subscribe the calen
+ dar from www.webcal.fi.</title></head><body><p>Calendar Moo
+ n ends. This calendar shows 27 weeks into the future. If yo
+ ur calendar is not updated\, please set your calendar softw
+ are to update automatically or re-subscribe the calendar fr
+ om www.webcal.fi.</p><p><a href='http://en.wikipedia.org/wi
+ ki/Moon'>Moon</a></p></body></html>
+URL:http://en.wikipedia.org/wiki/Moon
+CONTACT:Aapo Puskala\, info@webcal.fi
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+PRIORITY:5
+SEQUENCE:4081
+CREATED;VALUE=DATE-TIME:20210304T132924Z
+LAST-MODIFIED;VALUE=DATE-TIME:20210304T132924Z
+DTSTAMP;VALUE=DATE-TIME:20210304T132924Z
+END:VEVENT
+END:VCALENDAR

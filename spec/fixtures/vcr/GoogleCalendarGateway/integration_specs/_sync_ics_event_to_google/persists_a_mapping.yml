@@ -1,0 +1,157 @@
+---
+http_interactions:
+- request:
+    method: post
+    uri: https://accounts.google.com/o/oauth2/token
+    body:
+      encoding: ASCII-8BIT
+      string: grant_type=refresh_token&refresh_token=1%2F%2F0dmUiPDHcAVdNCgYIARAAGA0SNwF-L9IrbmZ5KvrXIL5vZwuhriHLvWb-zh3fXBvgRiUdl2I-r72dE1il4cT56CxtpN0jC-8oKcY&client_id=431521155175-jk5tkoac3r0u7f1pkuc9actmacagt4pt.apps.googleusercontent.com&client_secret=u2inh1VF_i_g5aX0EXZsXFTj
+    headers:
+      User-Agent:
+      - Faraday v1.3.0
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Pragma:
+      - no-cache
+      Expires:
+      - Mon, 01 Jan 1990 00:00:00 GMT
+      Cache-Control:
+      - no-cache, no-store, max-age=0, must-revalidate
+      Date:
+      - Fri, 19 Mar 2021 13:50:01 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Vary:
+      - Origin
+      - Referer
+      - X-Origin
+      Server:
+      - scaffolding on HTTPServer2
+      X-Xss-Protection:
+      - '0'
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      Alt-Svc:
+      - h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443";
+        ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: ASCII-8BIT
+      string: |-
+        {
+          "access_token": "ya29.a0AfH6SMBShl4flThtpwQg02v7OBiQo4W4RYoxH1XYh-sv8ah8ESlo3FiSqd88pVF8cqiGyEGIf4lIWVtAd1S9CRscricbYA34ZxE0laGKXS0LJAJXutEJzqnHU-E3YX1rNPkAAkwuQTvfTu8gwUAyhIdkQ9P8pA",
+          "expires_in": 3599,
+          "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/calendar",
+          "token_type": "Bearer",
+          "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZhOGJhNTY1MmE3MDQ0MTIxZDRmZWRhYzhmMTRkMTRjNTRlNDg5NWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNDMxNTIxMTU1MTc1LWprNXRrb2FjM3IwdTdmMXBrdWM5YWN0bWFjYWd0NHB0LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNDMxNTIxMTU1MTc1LWprNXRrb2FjM3IwdTdmMXBrdWM5YWN0bWFjYWd0NHB0LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE2NTc3MjI3NTYzMzE3MTE3Njc2IiwiZW1haWwiOiJqb2huLnJhbmRhbGwuZGV2LnNwZWNAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiIyZUN3QlkxRHhqYXBWckhUNzVrVlFBIiwiaWF0IjoxNjE2MTYxODAxLCJleHAiOjE2MTYxNjU0MDF9.DOwCU8Fsp1_5zvJ4TeWz1sxJbWb_NR--m5lQFRiqlh2LnzAaRj-MbCPu7GOxBzBCUSGGlEaOQb4aKQ1AJ7BPU8mJXbYp2zvgcQJCgI5VA-Gv_j8PlFQkRbDaKzyaL_8W34n957nK3KrUhQCX9GlZmFePYm2biHHZwHrfh80Tn0nEKMHm9G3r9uLll27gmxTpIaE1Y86dGezF_kPQP3bevMgr2tIsI6_PYNRFfhQ7RHNZNPsczX2-4Vr5VVgOy4-ijFjCM-Jcccquxubxk1vQW6mCGBaAGqKQO0S4jhvt2VGpdW0bQ3D9h4zNjaUYgnSq5VBlrI1hoykO7BKMvSpdKg"
+        }
+  recorded_at: Fri, 19 Mar 2021 13:50:01 GMT
+- request:
+    method: post
+    uri: https://www.googleapis.com/calendar/v3/calendars/primary/events
+    body:
+      encoding: UTF-8
+      string: '{"description":"Location: Brookdale Stadium  (Arrival Time:  4:15 PM
+        (East","end":{"dateTime":"2020-09-16T16:15:00.000-04:00"},"location":"East
+        Circuit Drive, Bloomfield, NJ 07003","start":{"dateTime":"2020-09-16T16:15:00.000-04:00"},"status":"confirmed","summary":"2013
+        Boys Montclair United Blue - U8 Boys PRACTICE"}'
+    headers:
+      User-Agent:
+      - unknown/0.0.0 google-api-ruby-client/0.3.0 Mac OS X/10.15.7 (gzip)
+      Accept:
+      - "*/*"
+      Accept-Encoding:
+      - gzip,deflate
+      Date:
+      - Fri, 19 Mar 2021 13:50:01 GMT
+      X-Goog-Api-Client:
+      - gl-ruby/2.7.2 gdcl/1.3.0
+      Content-Type:
+      - application/json
+      Authorization:
+      - Bearer ya29.a0AfH6SMBShl4flThtpwQg02v7OBiQo4W4RYoxH1XYh-sv8ah8ESlo3FiSqd88pVF8cqiGyEGIf4lIWVtAd1S9CRscricbYA34ZxE0laGKXS0LJAJXutEJzqnHU-E3YX1rNPkAAkwuQTvfTu8gwUAyhIdkQ9P8pA
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Expires:
+      - Mon, 01 Jan 1990 00:00:00 GMT
+      Cache-Control:
+      - no-cache, no-store, max-age=0, must-revalidate
+      Date:
+      - Fri, 19 Mar 2021 13:50:01 GMT
+      Pragma:
+      - no-cache
+      Content-Type:
+      - application/json; charset=UTF-8
+      Etag:
+      - '"3232323603198000"'
+      Vary:
+      - Origin
+      - Referer
+      - X-Origin
+      Content-Encoding:
+      - gzip
+      Server:
+      - ESF
+      X-Xss-Protection:
+      - '0'
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      Alt-Svc:
+      - h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443";
+        ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: |
+        {
+         "kind": "calendar#event",
+         "etag": "\"3232323603198000\"",
+         "id": "u1acjfp2r5aeqgohb0spt5leuo",
+         "status": "confirmed",
+         "htmlLink": "https://www.google.com/calendar/event?eid=dTFhY2pmcDJyNWFlcWdvaGIwc3B0NWxldW8gam9obi5yYW5kYWxsLmRldi5zcGVjQG0",
+         "created": "2021-03-19T13:50:01.000Z",
+         "updated": "2021-03-19T13:50:01.599Z",
+         "summary": "2013 Boys Montclair United Blue - U8 Boys PRACTICE",
+         "description": "Location: Brookdale Stadium  (Arrival Time:  4:15 PM (East",
+         "location": "East Circuit Drive, Bloomfield, NJ 07003",
+         "creator": {
+          "email": "john.randall.dev.spec@gmail.com",
+          "self": true
+         },
+         "organizer": {
+          "email": "john.randall.dev.spec@gmail.com",
+          "self": true
+         },
+         "start": {
+          "dateTime": "2020-09-16T16:15:00-04:00"
+         },
+         "end": {
+          "dateTime": "2020-09-16T16:15:00-04:00"
+         },
+         "iCalUID": "u1acjfp2r5aeqgohb0spt5leuo@google.com",
+         "sequence": 0,
+         "reminders": {
+          "useDefault": true
+         },
+         "eventType": "default"
+        }
+  recorded_at: Fri, 19 Mar 2021 13:50:01 GMT
+recorded_with: VCR 6.0.0
