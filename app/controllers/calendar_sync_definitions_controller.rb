@@ -23,11 +23,26 @@ class CalendarSyncDefinitionsController < ApplicationController
     redirect_to calendar_sync_definitions_path
   end
 
+  def update
+    @calendar_sync_definition = current_user.calendar_sync_definitions.find(params[:id])
+
+    @calendar_sync_definition.update!(calendar_sync_definition_params)
+    flash[:notice] = "sync definition updated!"
+    redirect_to calendar_sync_definitions_path
+  end
+
   def perform_sync
     calendar_sync_definition = current_user.calendar_sync_definitions.find(params[:id])
     CalendarSyncJob.perform_later(calendar_sync_definition.id)
 
     flash[:notice] = "running sync"
     redirect_to calendar_sync_definitions_path
+  end
+
+  def calendar_sync_definition_params
+    params.require(:calendar_sync_definition).permit(
+      :subscribed_calendar_url,
+      :description_prepend_string,
+    )
   end
 end

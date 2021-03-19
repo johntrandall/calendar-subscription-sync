@@ -1,8 +1,8 @@
 <ul>
 <% @calendar_sync_definitions.find_each do |calendar_sync_definition| %>
   <li>
-    <%= calendar_sync_definition.subscribed_calendar_url %>
-    <%= calendar_sync_definition.description_prepend_string %>
+    subscribed_calendar_url: <%= calendar_sync_definition.subscribed_calendar_url %><br>
+    description_prepend_string: <%= calendar_sync_definition.description_prepend_string %>
     <%= button_to perform_sync_calendar_sync_definition_path(calendar_sync_definition), perform_sync_calendar_sync_definition_path(calendar_sync_definition) %>
     <%= link_to 'edit', edit_calendar_sync_definition_path(calendar_sync_definition) %>
   </li>
