@@ -8,7 +8,7 @@ class GoogleCalendarPushAndSyncEventService
 
   def sync_ics_event_to_google(ics_source_event, calendar_sync_definition)
     mapping = calendar_sync_definition.calendar_id_maps.find_or_create_by!(ics_uid: ics_source_event.uid.to_s)
-    return calendar_sync_definition if mapping.google_cal_updated_at.present? && ics_source_event.last_modified < mapping.google_cal_updated_at
+    # return calendar_sync_definition if mapping.google_cal_updated_at.present? && ics_source_event.last_modified < mapping.google_cal_updated_at
 
     unpersisted_google_event = GoogleCalendarEventFactory.new(calendar_sync_definition).create_unpersisted_from_ics(ics_source_event)
 
