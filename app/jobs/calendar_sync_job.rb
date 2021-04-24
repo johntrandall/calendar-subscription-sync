@@ -1,18 +1,21 @@
-class CalendarSyncJob < ApplicationJob
+class CalendarSyncJob# < ApplicationJob
 
   def self.queue_all
     Rails.logger.info { "#{self.name}.queue_all" }
     CalendarSyncDefinition.all.find_each do |csd|
-      # begin
+      sleep 20
+      begin
       CalendarSyncJob.new.perform(csd.id)
-      # rescue
-      #   next
-      # end
+      rescue
+        next
+      end
     end
+  end
   end
 
   def perform(calendar_sync_definition_id, limit_for_spec: nil)
     Rails.logger.info { "#{self.class.name}.perform on #{calendar_sync_definition_id} START" }
+    sleep 5
 
     calendar_sync_definition = CalendarSyncDefinition.find(calendar_sync_definition_id)
     user = calendar_sync_definition.user
