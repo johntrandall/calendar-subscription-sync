@@ -1,4 +1,4 @@
-class CalendarSyncJob# < ApplicationJob
+class CalendarSyncJob < ApplicationJob
 
   def self.queue_all
     Rails.logger.info { "#{self.name}.queue_all" }
@@ -10,7 +10,6 @@ class CalendarSyncJob# < ApplicationJob
         next
       end
     end
-  end
   end
 
   def perform(calendar_sync_definition_id, limit_for_spec: nil)
