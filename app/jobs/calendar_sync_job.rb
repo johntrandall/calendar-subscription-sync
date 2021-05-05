@@ -7,6 +7,8 @@ class CalendarSyncJob < ApplicationJob
       begin
       CalendarSyncJob.new.perform(csd.id)
       rescue
+        puts Rails.logger.info("CalendarSyncJob.queue_all fail - #{csd.id}")
+        Rails.logger.info("CalendarSyncJob.queue_all fail - #{csd.id}")
         next
       end
     end
@@ -42,6 +44,11 @@ class CalendarSyncJob < ApplicationJob
 
   def parse_ics_string_to_events(ics_string)
     cals = Icalendar::Calendar.parse(ics_string) # Parser returns an array of calendars because a single file can have multiple calendars.
+    if cals.size > 1
+      puts "Not Yet Implamented: multiple cals in ICS"
+      Rails.logger.info("Not Yet Implamented: multiple cals in ICS")
+      raise "Not Yet Implamented: multiple cals in ICS"
+    end
     cal = cals.first
     events_from_ics_string_value = events = cal.events
     ics_events = events_from_ics_string_value
@@ -52,6 +59,6 @@ class CalendarSyncJob < ApplicationJob
     uri = URI(source_url)
     ics_string_from_url_value = get_ics_data_value = ics_string = Net::HTTP.get(uri)
     # cal_file = File.open(ics_string) # Open a file or pass a string to the parser
-    ics_string = ics_string_from_url_value
+    _ics_string = ics_string_from_url_value
   end
 end
