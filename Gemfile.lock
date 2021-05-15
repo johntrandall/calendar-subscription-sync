@@ -263,7 +263,7 @@ GEM
       rake (>= 0.8.7)
       thor (~> 1.0)
     rake (13.0.3)
-    raygun4ruby (3.2.4)
+    raygun4ruby (3.2.6)
       concurrent-ruby
       httparty (> 0.13.7)
       json
